@@ -1,0 +1,187 @@
+/* 
+  Localizable.strings
+  Posture Pal
+
+  Created by Michael Klug on 06/03/2022.
+  
+*/
+
+/* No comment provided by engineer. */
+"10 minute time limit reached" = "10-Minuten-Zeitlimit erreicht";
+
+/* No comment provided by engineer. */
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Stellen Sie ein, wie schlecht Ihre Körperhaltung sein muss, bevor Posture Pal Sie warnt";
+
+/* No comment provided by engineer. */
+"App Icons" = "App-Symbole";
+
+/* No comment provided by engineer. */
+"Authorization status is denied" = "Der Autorisierungsstatus ist verweigert";
+
+/* No comment provided by engineer. */
+"Authorization status is restricted" = "Der Autorisierungsstatus ist eingeschränkt";
+
+/* No comment provided by engineer. */
+"Authorization status is unknown" = "Der Autorisierungsstatus ist unbekannt";
+
+/* No comment provided by engineer. */
+"Back" = "Zurück";
+
+/* No comment provided by engineer. */
+"Bad" = "Schlecht";
+
+/* No comment provided by engineer. */
+"Colors will reset on relaunch" = "Farben werden beim Neustart zurückgesetzt";
+
+/* No comment provided by engineer. */
+"Connect supported AirPods to track your posture" = "Verbinden Sie unterstützte AirPods, um Ihre Körperhaltung zu verfolgen";
+
+/* No comment provided by engineer. */
+"Custom Angle %@" = "benutzerdefinierter Winkel %@";
+
+/* No comment provided by engineer. */
+"Device motion is active" = "Gerätebewegung ist aktiv";
+
+/* No comment provided by engineer. */
+"Device motion is already active." = "Gerätebewegung ist bereits aktiv.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Verwerfen";
+
+/* No comment provided by engineer. */
+"Get Started" = "Loslegen";
+
+/* No comment provided by engineer. */
+"Go Pro" = "Gehen Sie Pro";
+
+/* No comment provided by engineer. */
+"Good" = "Gut";
+
+/* No comment provided by engineer. */
+"Great" = "Großartig";
+
+/* No comment provided by engineer. */
+"Loading" = "Lädt";
+
+/* No comment provided by engineer. */
+"Make your phone vibrate whenever your posture is bad." = "Lassen Sie Ihr Telefon vibrieren, wenn Ihre Körperhaltung schlecht ist.";
+
+/* No comment provided by engineer. */
+"More info" = "Mehr Info";
+
+/* No comment provided by engineer. */
+"No pages for this support item" = "Keine Seiten für dieses Support-Artikel";
+
+/* No comment provided by engineer. */
+"No permission" = "Keine Berechtigung";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Spielen Sie einen subtilen Ton durch Ihre AirPods, wenn Ihre Körperhaltung schlecht ist";
+
+/* No comment provided by engineer. */
+"Please, re-connect your headphones." = "Bitte schließen Sie Ihre Kopfhörer erneut an.";
+
+/* No comment provided by engineer. */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+
+/* No comment provided by engineer. */
+"Posture Pal\nPro" = "Posture Pal\nPro";
+
+/* No comment provided by engineer. */
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal hilft Ihnen, Ihre Kopf- und Nackenhaltung mit Ihren AirPods zu verbessern!";
+
+/* No comment provided by engineer. */
+"Posture Tracking Sensitivity" = "Empfindlichkeit der Körperhaltungs-Verfolgungs";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Datenschutz-Bestimmungen";
+
+/* No comment provided by engineer. */
+"Reset" = "Zurücksetzen";
+
+/* No comment provided by engineer. */
+"Restore Purchases" = "Einkäufe wiederherstellen";
+
+/* No comment provided by engineer. */
+"SCORE" = "ERGEBNIS";
+
+/* No comment provided by engineer. */
+"Sensitivity" = "Empfindlichkeit";
+
+/* No comment provided by engineer. */
+"Sensitivity: %@" = "Empfindlichkeit: %@";
+
+/* No comment provided by engineer. */
+"Session Complete" = "Sitzung abgeschlossen";
+
+/* No comment provided by engineer. */
+"Settings" = "Einstellungen";
+
+/* No comment provided by engineer. */
+"Skip" = "Überspringen";
+
+/* No comment provided by engineer. */
+"Sound Alerts Disabled" = "Tonwarnungen deaktiviert";
+
+/* No comment provided by engineer. */
+"Sound Alerts Enabled" = "Tonwarnungen aktiviert";
+
+/* No comment provided by engineer. */
+"Sounds" = "Töne";
+
+/* No comment provided by engineer. */
+"Start Tracking" = "Verfolgung starten";
+
+/* No comment provided by engineer. */
+"Stop Tracking" = "Verfolgung stoppen";
+
+/* No comment provided by engineer. */
+"Support" = "Support";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "Nutzungsbedingungen";
+
+/* No comment provided by engineer. */
+"Thanks for being a Pro!" = "Danke, dass Sie Pro sind!";
+
+/* No comment provided by engineer. */
+"Then just %@%.2f per week billed yearly \n%@ per %@" = "Danach nur %@%.2f pro Woche, abgerechnet jährlich \n%@ pro %@";
+
+/* No comment provided by engineer. */
+"Unlock for %@" = "Freischalten für %@";
+
+/* No comment provided by engineer. */
+"Update now" = "Jetzt aktualisieren";
+
+/* No comment provided by engineer. */
+"Vibration Alerts Disabled" = "Vibrationsalarme deaktiviert;
+
+/* No comment provided by engineer. */
+"Vibration Alerts Enabled" = "Vibrationsalarme aktiviert";
+
+/* No comment provided by engineer. */
+"Vibrations" = "Vibrationen";
+
+/* No comment provided by engineer. */
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Sie benötigen AirPods (3. Generation), AirPods Pro, AirPods Max oder Beats Fit Pro, um Ihre Körperhaltung zu verfolgen.";
+
+/* No comment provided by engineer. */
+"Your good and bad posture seconds" = "Ihre gute und schlechte Körperhaltung Sekunden";
+
+/* No comment provided by engineer. */
+"Your headphones don't support posture tracking" = "Ihre Kopfhörer unterstützen keine Haltungsverfolgung";
+
+
+/* ANGLES */
+"Low" = "Klein";
+"Medium" = "Mittel";
+"High" = "Groß";
+
+/* PURCHASES */
+"Unlimited Posture Sessions" = "Unbegrenzte Haltungssitzungen";
+"Custom Sensitivity" = "Benutzerdefinierte Empfindlichkeit";
+"Custom Colors" = "Benutzerdefinierte Farben";
+"Extra App Icons" = "Extra App-Symbole";
