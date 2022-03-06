@@ -1,0 +1,187 @@
+/* 
+  Localizable.strings
+  Posture Pal
+
+  Created by Jordi Bruin on 05/03/2022.
+  
+*/
+
+/* No comment provided by engineer. */
+"10 minute time limit reached" = "已過十分鐘上限";
+
+/* No comment provided by engineer. */
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "調整Posture Pal提示您姿勢不良的最低程度";
+
+/* No comment provided by engineer. */
+"App Icons" = "App圖像";
+
+/* No comment provided by engineer. */
+"Authorization status is denied" = "授權狀態為被拒絕";
+
+/* No comment provided by engineer. */
+"Authorization status is restricted" = "授權狀態為被受限";
+
+/* No comment provided by engineer. */
+"Authorization status is unknown" = "授權狀態未知";
+
+/* No comment provided by engineer. */
+"Back" = "上一步";
+
+/* No comment provided by engineer. */
+"Bad" = "不良";
+
+/* No comment provided by engineer. */
+"Colors will reset on relaunch" = "重新啟動會將色彩重置";
+
+/* No comment provided by engineer. */
+"Connect supported AirPods to track your posture" = "將受支援AirPods連接以偵測姿勢";
+
+/* No comment provided by engineer. */
+"Custom Angle %@" = "自訂角度%@";
+
+/* No comment provided by engineer. */
+"Device motion is active" = "已啟用裝置動作";
+
+/* No comment provided by engineer. */
+"Device motion is already active." = "已啟用裝置動作。";
+
+/* No comment provided by engineer. */
+"Dismiss" = "關閉";
+
+/* No comment provided by engineer. */
+"Get Started" = "開始使用";
+
+/* No comment provided by engineer. */
+"Go Pro" = "啟動Pro";
+
+/* No comment provided by engineer. */
+"Good" = "良好";
+
+/* No comment provided by engineer. */
+"Great" = "極佳";
+
+/* No comment provided by engineer. */
+"Loading" = "載入中";
+
+/* No comment provided by engineer. */
+"Make your phone vibrate whenever your posture is bad." = "如果姿勢不良，手機將會震動";
+
+/* No comment provided by engineer. */
+"More info" = "更多資訊";
+
+/* No comment provided by engineer. */
+"No pages for this support item" = "沒有本支援項的頁面";
+
+/* No comment provided by engineer. */
+"No permission" = "沒有權限";
+
+/* No comment provided by engineer. */
+"OK" = "好";
+
+/* No comment provided by engineer. */
+"Play a subtle sound through your AirPods whenever your posture is bad" = "姿勢不良的時候透過AirPods發出聲響";
+
+/* No comment provided by engineer. */
+"Please, re-connect your headphones." = "請重新連接耳機。";
+
+/* No comment provided by engineer. */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+
+/* No comment provided by engineer. */
+"Posture Pal\nPro" = "Posture Pal\nPro";
+
+/* No comment provided by engineer. */
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal利用您的Airpods幫助您改良頭部頸部姿勢！";
+
+/* No comment provided by engineer. */
+"Posture Tracking Sensitivity" = "姿勢偵測靈敏度";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "隱私條款";
+
+/* No comment provided by engineer. */
+"Reset" = "重置";
+
+/* No comment provided by engineer. */
+"Restore Purchases" = "回復使用購買內容";
+
+/* No comment provided by engineer. */
+"SCORE" = "分數";
+
+/* No comment provided by engineer. */
+"Sensitivity" = "靈敏度";
+
+/* No comment provided by engineer. */
+"Sensitivity: %@" = "靈敏度： %@";
+
+/* No comment provided by engineer. */
+"Session Complete" = "階段完成";
+
+/* No comment provided by engineer. */
+"Settings" = "設定";
+
+/* No comment provided by engineer. */
+"Skip" = "跳過";
+
+/* No comment provided by engineer. */
+"Sound Alerts Disabled" = "已停用聲音提示";
+
+/* No comment provided by engineer. */
+"Sound Alerts Enabled" = "已啟用聲音提示";
+
+/* No comment provided by engineer. */
+"Sounds" = "聲音";
+
+/* No comment provided by engineer. */
+"Start Tracking" = "開始偵測";
+
+/* No comment provided by engineer. */
+"Stop Tracking" = "停止偵測";
+
+/* No comment provided by engineer. */
+"Support" = "取得支援";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "使用條款";
+
+/* No comment provided by engineer. */
+"Thanks for being a Pro!" = "謝謝您成為Pro使用者！";
+
+/* No comment provided by engineer. */
+"Then just %@%.2f per week billed yearly \n%@ per %@" = "接著每週%@%.2f一年付清\n%@每%@";
+
+/* No comment provided by engineer. */
+"Unlock for %@" = "%@的解鎖";
+
+/* No comment provided by engineer. */
+"Update now" = "立即更新";
+
+/* No comment provided by engineer. */
+"Vibration Alerts Disabled" = "已停用震動提示";
+
+/* No comment provided by engineer. */
+"Vibration Alerts Enabled" = "已啟用震動提示";
+
+/* No comment provided by engineer. */
+"Vibrations" = "震動";
+
+/* No comment provided by engineer. */
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "請使用 AirPods (3rd generation), AirPods Pro, AirPods Max 或 Beats Fit Pro 進行姿勢追蹤。";
+
+/* No comment provided by engineer. */
+"Your good and bad posture seconds" = "您姿勢良好與姿勢不良的秒數";
+
+/* No comment provided by engineer. */
+"Your headphones don't support posture tracking" = "您的耳機不支援姿勢追蹤";
+
+
+/* ANGLES */
+"Low" = "低";
+"Medium" = "中";
+"High" = "高";
+
+/* PURCHASES */
+"Unlimited Posture Sessions" = "姿勢偵測不限次數";
+"Custom Sensitivity" = "自訂靈敏度";
+"Custom Colors" = "自訂顏色";
+"Extra App Icons" = "更多App圖示";
