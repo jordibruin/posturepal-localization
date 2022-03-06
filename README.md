@@ -12,3 +12,4 @@ If you want to help translate Posture Pal to your langauge, please make a PR and
 | ------------- |:-------------:| ------------------------------------------------:|------:|
 | 🇬🇧 English    | Jordi Bruin   | [Twitter](https://www.twitter.com/jordibruin)     | 😏
 | 🇳🇱 Dutch      | Jordi Bruin   | [Twitter](https://www.twitter.com/jordibruin)     | 😏
+| 🇮🇹 Italian      | Jordi Bruin   | [Twitter](https://www.twitter.com/gianpispi)     | 🦄
