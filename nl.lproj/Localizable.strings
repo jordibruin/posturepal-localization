@@ -1,0 +1,184 @@
+/*
+  Localizable.strings
+  Posture Pal
+
+  Created by Jordi Bruin on 05/03/2022.
+  
+*/
+
+/* No comment provided by engineer. */
+"10 minute time limit reached" = "10 minuten tijdslimiet bereikt";
+
+/* No comment provided by engineer. */
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Pas aan hoe slecht je houding moet zijn voor dat Posture Pal je een melding geeft";
+
+/* No comment provided by engineer. */
+"App Icons" = "App Iconen";
+
+/* No comment provided by engineer. */
+"Authorization status is denied" = "Authorisatie Status is geweigerd";
+
+/* No comment provided by engineer. */
+"Authorization status is restricted" = "Authorisatie Status is beperkt";
+
+/* No comment provided by engineer. */
+"Authorization status is unknown" = "Authorisatie Status is onbekend";
+
+/* No comment provided by engineer. */
+"Back" = "Terug";
+
+/* No comment provided by engineer. */
+"Bad" = "Slecht";
+
+/* No comment provided by engineer. */
+"Colors will reset on relaunch" = "Kleuren worden gereset bij opnieuw opstarten";
+
+/* No comment provided by engineer. */
+"Connect supported AirPods to track your posture" = "Verbind ondersteunde AirPods om je houding te controleren";
+
+/* No comment provided by engineer. */
+"Custom Angle %@" = "Aangepaste hoek %@";
+
+/* No comment provided by engineer. */
+"Device motion is active" = "Apparaat beweging is actief";
+
+/* No comment provided by engineer. */
+"Device motion is already active." = "Apparaat beweging is al actief.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Dismiss";
+
+/* No comment provided by engineer. */
+"Get Started" = "Aan de slag";
+
+/* No comment provided by engineer. */
+"Go Pro" = "Word Pro";
+
+/* No comment provided by engineer. */
+"Good" = "Goed";
+
+/* No comment provided by engineer. */
+"Great" = "Super";
+
+/* No comment provided by engineer. */
+"Loading" = "Laden";
+
+/* No comment provided by engineer. */
+"Make your phone vibrate whenever your posture is bad." = "Laat je iPhone vibreren als je houding slecht is.";
+
+/* No comment provided by engineer. */
+"More info" = "Meer informatie";
+
+/* No comment provided by engineer. */
+"No pages for this support item" = "Geen pagina's voor dit support onderdeel";
+
+/* No comment provided by engineer. */
+"No permission" = "Geen toestemming";
+
+/* No comment provided by engineer. */
+"OK" = "Oké";
+
+/* No comment provided by engineer. */
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Speel een kort geluidsfragment door je koptelefoon als je houding slecht is";
+
+/* No comment provided by engineer. */
+"Please, re-connect your headphones." = "Verbind je koptelefoon opnieuw";
+
+/* No comment provided by engineer. */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+
+/* No comment provided by engineer. */
+"Posture Pal\nPro" = "Posture Pal\nPro";
+
+/* No comment provided by engineer. */
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal helpt je om je hoofd en nek houding te verbeteren met je AirPods!";
+
+/* No comment provided by engineer. */
+"Posture Tracking Sensitivity" = "Houding Tracker Gevoeligheid";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Privacybeleid";
+
+/* No comment provided by engineer. */
+"Reset" = "Origineel";
+
+/* No comment provided by engineer. */
+"Restore Purchases" = "Aankopen Herstellen";
+
+/* No comment provided by engineer. */
+"SCORE" = "SCORE";
+
+/* No comment provided by engineer. */
+"Sensitivity" = "Gevoeligheid";
+
+/* No comment provided by engineer. */
+"Sensitivity: %@" = "Gevoeligheid: %@";
+
+/* No comment provided by engineer. */
+"Session Complete" = "Sessie voltooid";
+
+/* No comment provided by engineer. */
+"Settings" = "Instellingen";
+
+/* No comment provided by engineer. */
+"Skip" = "Overslaan";
+
+/* No comment provided by engineer. */
+"Sound Alerts Disabled" = "Geluids Meldingen Uit";
+
+/* No comment provided by engineer. */
+"Sound Alerts Enabled" = "Geluids Meldingen Aan";
+
+/* No comment provided by engineer. */
+"Sounds" = "Geluiden";
+
+/* No comment provided by engineer. */
+"Start Tracking" = "Start Houding Controle";
+
+/* No comment provided by engineer. */
+"Stop Tracking" = "Stop Houding Controle";
+
+/* No comment provided by engineer. */
+"Support" = "Ondersteuning";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "Gebruiksvoorwaarden";
+
+/* No comment provided by engineer. */
+"Thanks for being a Pro!" = "Lief dat je een Pro bent!";
+
+/* No comment provided by engineer. */
+"Unlock for %@" = "Kopen voor %@";
+
+/* No comment provided by engineer. */
+"Update now" = "Nu updaten";
+
+/* No comment provided by engineer. */
+"Vibration Alerts Disabled" = "Trilling Meldingen Uit";
+
+/* No comment provided by engineer. */
+"Vibration Alerts Enabled" = "Trilling Meldingen Aan";
+
+/* No comment provided by engineer. */
+"Vibrations" = "Trillingen";
+
+/* No comment provided by engineer. */
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Je hebt AirPods (3e generatie), AirPods Pro, AirPods Max or Beats Fit Pro nodig om je houding te controleren.";
+
+/* No comment provided by engineer. */
+"Your good and bad posture seconds" = "Je goede en slechte houding seconden";
+
+/* No comment provided by engineer. */
+"Your headphones don't support posture tracking" = "Je koptelefoon ondersteund geen houding controle";
+
+/* ANGLES */
+"Low" = "Laag";
+"Medium" = "Gemiddeld";
+"High" = "Hoog";
+
+
+/* PURCHASES */
+"Unlimited Posture Sessions" = "Geen 10 minuten tijdslimiet meer";
+"Custom Sensitivity" = "Aangepaste Gevoeligheid";
+"Custom Colors" = "Kleuren Aanpassen";
+"Extra App Icons" = "Extra App Iconen";
