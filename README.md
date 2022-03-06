@@ -1,3 +1,5 @@
+![Artboard](https://user-images.githubusercontent.com/170948/156908301-0f256afc-9fa1-4141-a5ac-889d38c1566b.png)
+
 # Posture Pal Localization
 Posture Pal is an iOS app that helps you improve your posture thanks to the motion sensors in your AirPods.
 
