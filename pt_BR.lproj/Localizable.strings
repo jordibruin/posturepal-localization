@@ -48,8 +48,8 @@
 
 
 /* Shown on the colors screen to prompt users to upgrade */
-"Colors will reset on relaunch" = "Colors will reset on relaunch";
-"Go Pro" = "Go Pro";
+"Colors will reset on relaunch" = "As cores serão redefinidas ao reiniciar o app";
+"Go Pro" = "Se torne Pro";
 
 /* Posture Pal Pro screen */
 /* No need to change this */
