@@ -191,17 +191,17 @@ Created by Florian Schweizer on 06/03/2022.
 /* Onboarding */
 /* Titles based on current permission status */
 
-"Motion Data" = "Motion Data";
-"Motion Restricted" = "Motion Restricted";
-"Permission Denied" = "Permission Denied";
-"Ready to Go!" = "Ready to Go!";
+"Motion Data" = "Bewegungsdaten";
+"Motion Restricted" = "Bewegungsdaten sind eingeschränkt";
+"Permission Denied" = "Berechtigung nicht erteilt";
+"Ready to Go!" = "Los Geht's!";
 
 /* Subtitles based on current permission status */
-"Posture Pal tracks your posture by using your AirPods." = "Posture Pal tracks your posture by using your AirPods.";
-"Motion Data usage is restricted for this device. You can change this in settings." = "Motion Data usage is restricted for this device. You can change this in settings.";
-"Motion Data permission was denied. You can change this in settings." = "Motion Data permission was denied. You can change this in settings.";
-"Posture Pal can use your AirPods to track your posture." = "Posture Pal can use your AirPods to track your posture.";
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal misst deine Haltung mithilfe deiner AirPods.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Bewegungsdaten-Berechtigung ist eingeschränkt für diese Gerät. Du kannst dies in den Einstellungen ändern.";
+"Motion Data permission was denied. You can change this in settings." = "Bewegungsdaten-Berechtigung wurde nicht erteilt. Du kannst dies in den Einstellungen ändern.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal kann deine AirPods verwenden, um deine Haltung zu überwachen.";
 
-"Request" = "Request";
-"Open Settings" = "Open Settings";
-"Continue" = "Continue";
+"Request" = "Anfrage";
+"Open Settings" = "Einstellungen öffnen";
+"Continue" = "Weiter";
