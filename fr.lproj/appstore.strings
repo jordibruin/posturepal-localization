@@ -1,0 +1,47 @@
+/* App Store Title */
+"Posture Pal - Improve Stance" = "Posture Pal - Améliorer sa posture";
+
+/* App Store Subtitle */
+"Straight Back, Neck & Shoulder" = "Dos droit, cou et éppaule";
+
+/* App Store Description */
+"Posture Pal helps you improve your neck and shoulder posture by using the motion sensors in your headphones. Improve your neck, shoulder and back posture without having to purchase a separate tracking device. Just use your AirPods*.
+
+Start a Posture Session and Posture Pal will keep track if your neck tilt and will alert you in the background.
+
+Features:
+- Visual alerts when bad posture is detected
+- Phone vibration alerts when bad posture is detected
+- Sound alerts when bad posture is de/Users/benjamin/Desktop/posturepal-localization/fr.lproj/InfoPlist.stringstected
+- Works in the background
+- Works while other sound is playing
+- Three different sensitivity levels
+- Custom colors and theming*
+- Custom sensitivity*
+- 12 different app icons*
+
+* Posture Pal supports AirPods (3rd Generation), AirPods Pro, AirPods Max and Beats Fit Pro. Other headphones that can send motion data to your iPhone can also work.
+** Posture Pal Pro required"
+
+= 
+
+"Posture Pal vous aide à améliorer la posture de votre cou et de vos épaules en utilisant les capteurs de mouvement de vos écouteurs. Améliorez la posture de votre cou, de vos épaules et de votre dos sans avoir à acheter un appareil de suivi séparé. Utilisez simplement vos AirPods*
+
+Démarrez une session de posture et Posture Pal va analyser si votre cou s'incline et vous alertera en arrière-plan.
+
+Fonctionnalités:
+- Alertes visuelles lorsqu'une mauvaise posture est détectée
+- Alertes de vibration du téléphone lorsqu'une mauvaise posture est détectée
+- Alertes sonores lorsqu'une mauvaise posture est détectée
+- Fonctionne en arrière-plan
+- Fonctionne pendant que d'autres sons jouent
+- Trois niveaux de sensibilité différents
+- Couleurs et thèmes personnalisés*
+- Sensibilité personnalisée*
+- 12 icônes d'application différentes*
+
+* Posture Pal prend en charge les AirPods (3e génération), AirPods Pro, AirPods Max et Beats Fit Pro. D'autres écouteurs capables d'envoyer des données de mouvement à votre iPhone peuvent également fonctionner.
+** Posture Pal Pro requis"
+
+/* App Store Keywords */
+"upright,neck,shoulder,back,stable,office,work,desk,stance,go,lumo,lift,active,straight,sit,airpods" = "debout,cou,épaule,dos,stable, bureau,travail,bureau,position,aller,lumo,ascenseur,actif, roit,assis,airpods";
