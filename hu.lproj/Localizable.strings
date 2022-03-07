@@ -1,0 +1,187 @@
+/* 
+  Localizable.strings
+  Posture Pal
+
+  Created by Kristóf Kékesi on 06/03/2022.
+  
+*/
+
+/* No comment provided by engineer. */
+"10 minute time limit reached" = "10 perces időkorlát elérve";
+
+/* No comment provided by engineer. */
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Állítsa be milyen rossz legyen a tartása, hogy a Posture Pal szóljon";
+
+/* No comment provided by engineer. */
+"App Icons" = "App Ikonja";
+
+/* No comment provided by engineer. */
+"Authorization status is denied" = "Jogosultság megtagadva";
+
+/* No comment provided by engineer. */
+"Authorization status is restricted" = "Jogosultság korlátozva";
+
+/* No comment provided by engineer. */
+"Authorization status is unknown" = "Jogosultság ismeretlen";
+
+/* No comment provided by engineer. */
+"Back" = "Vissza";
+
+/* No comment provided by engineer. */
+"Bad" = "Helytelen";
+
+/* No comment provided by engineer. */
+"Colors will reset on relaunch" = "Színek az újraindításkor visszaállítódnak";
+
+/* No comment provided by engineer. */
+"Connect supported AirPods to track your posture" = "Támogatott AirPods csatlakoztatása a tartásod követéséhez";
+
+/* No comment provided by engineer. */
+"Custom Angle %@" = "Más szög %@";
+
+/* No comment provided by engineer. */
+"Device motion is active" = "Eszköz mozgás aktív";
+
+/* No comment provided by engineer. */
+"Device motion is already active." = "Eszköz mozgás már aktív.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Elutasítás";
+
+/* No comment provided by engineer. */
+"Get Started" = "Kezdés";
+
+/* No comment provided by engineer. */
+"Go Pro" = "Legyen Pro";
+
+/* No comment provided by engineer. */
+"Good" = "Jó";
+
+/* No comment provided by engineer. */
+"Great" = "Kiváló";
+
+/* No comment provided by engineer. */
+"Loading" = "Töltés";
+
+/* No comment provided by engineer. */
+"Make your phone vibrate whenever your posture is bad." = "Rezegjen a telefonod, ha a tartásod rossz.";
+
+/* No comment provided by engineer. */
+"More info" = "Több információ";
+
+/* No comment provided by engineer. */
+"No pages for this support item" = "Nincs oldal ehhez a témahoz";
+
+/* No comment provided by engineer. */
+"No permission" = "Nincs engedélyezve";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Hang lejátszása az AirPodson, ha a tartásod rossz";
+
+/* No comment provided by engineer. */
+"Please, re-connect your headphones." = "Csatlakoztasd újra a fejhallgatód.";
+
+/* No comment provided by engineer. */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+
+/* No comment provided by engineer. */
+"Posture Pal\nPro" = "Posture Pal\nPro";
+
+/* No comment provided by engineer. */
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal segít a fej és a nyak tartásában a AirPodsod használatával!";
+
+/* No comment provided by engineer. */
+"Posture Tracking Sensitivity" = "Tartásérzékelés érzékelés minősége";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Adatvédelmi irányelvek";
+
+/* No comment provided by engineer. */
+"Reset" = "Visszaállítás";
+
+/* No comment provided by engineer. */
+"Restore Purchases" = "Vásárlás visszavonása";
+
+/* No comment provided by engineer. */
+"SCORE" = "EREDMÉNY";
+
+/* No comment provided by engineer. */
+"Sensitivity" = "Érzékenység";
+
+/* No comment provided by engineer. */
+"Sensitivity: %@" = "Érzékenység: %@";
+
+/* No comment provided by engineer. */
+"Session Complete" = "Érzékelés befejezve";
+
+/* No comment provided by engineer. */
+"Settings" = "Beállítások";
+
+/* No comment provided by engineer. */
+"Skip" = "Tovább";
+
+/* No comment provided by engineer. */
+"Sound Alerts Disabled" = "Hang értesítések letiltva";
+
+/* No comment provided by engineer. */
+"Sound Alerts Enabled" = "Hang értesítések bekapcsolva";
+
+/* No comment provided by engineer. */
+"Sounds" = "Hangok";
+
+/* No comment provided by engineer. */
+"Start Tracking" = "Érzékelés indítása";
+
+/* No comment provided by engineer. */
+"Stop Tracking" = "Érzékelés leállítása";
+
+/* No comment provided by engineer. */
+"Support" = "Támogatás";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "Használati feltételek";
+
+/* No comment provided by engineer. */
+"Thanks for being a Pro!" = "Köszönjük, hogy Pro vagy!";
+
+/* No comment provided by engineer. */
+"Then just %@%.2f per week billed yearly \n%@ per %@" = "Utána %@%.2f hetente számlázva évente \n%@ / %@";
+
+/* No comment provided by engineer. */
+"Unlock for %@" = "Kioldás %@-ért";
+
+/* No comment provided by engineer. */
+"Update now" = "Most frissítve";
+
+/* No comment provided by engineer. */
+"Vibration Alerts Disabled" = "Rezgéses értesítések letiltva";
+
+/* No comment provided by engineer. */
+"Vibration Alerts Enabled" = "Rezgéses értesítések bekapcsolva";
+
+/* No comment provided by engineer. */
+"Vibrations" = "Rezgések";
+
+/* No comment provided by engineer. */
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "A tartásérzékeléshez AirPods (3. generáció), AirPods Pro, AirPods Max vagy Beats Fit Pro szükséges.";
+
+/* No comment provided by engineer. */
+"Your good and bad posture seconds" = "Jó és rossz tartási érzékelései";
+
+/* No comment provided by engineer. */
+"Your headphones don't support posture tracking" = "A fejhalgatója nem támogatja a tartás érzékelést";
+
+
+/* ANGLES */
+"Low" = "Alacsony";
+"Medium" = "Közepes";
+"High" = "Magas";
+
+/* PURCHASES */
+"Unlimited Posture Sessions" = "Végtelen tartás érzékelés";
+"Custom Sensitivity" = "Saját érzékenység";
+"Custom Colors" = "Saját színek";
+"Extra App Icons" = "Extra App Ikonok";
