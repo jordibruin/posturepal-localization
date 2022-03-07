@@ -16,13 +16,13 @@
 "App Icons" = "Ikone aplikacije";
 
 /* No comment provided by engineer. */
-"Authorization status is denied" = "Autorizacija odbijena";
+"Authorization status is denied" = "Autorizacija je odbijena";
 
 /* No comment provided by engineer. */
-"Authorization status is restricted" = "Autorizacijski status ograničen";
+"Authorization status is restricted" = "Autorizacijski status je ograničen";
 
 /* No comment provided by engineer. */
-"Authorization status is unknown" = "Autorizacijski status nepoznat";
+"Authorization status is unknown" = "Autorizacijski status je nepoznat";
 
 /* No comment provided by engineer. */
 "Back" = "Nazad";
@@ -34,7 +34,7 @@
 "Colors will reset on relaunch" = "Boje će se resetirati nakon ponovnog pokretanja aplikacije";
 
 /* No comment provided by engineer. */
-"Connect supported AirPods to track your posture" = "Poveži podržane AirPods slušalice za praćenje držanja";
+"Connect supported AirPods to track your posture" = "Poveži podržane AirPods slušalice za praćenje pravilnog držanja";
 
 /* No comment provided by engineer. */
 "Custom Angle %@" = "Odabir kuta %@";
@@ -91,10 +91,10 @@
 "Posture Pal\nPro" = "Posture Pal\nPro";
 
 /* No comment provided by engineer. */
-"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal pomaže održavanju dobrog držanja glave i vrata dok nosite AirPods slušalice!";
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal pomaže održavanju pravilnog držanja glave i vrata dok nosite AirPods slušalice!";
 
 /* No comment provided by engineer. */
-"Posture Tracking Sensitivity" = "Osjetljivost praćenja držanja";
+"Posture Tracking Sensitivity" = "Osjetljivost praćenja pravilnog držanja";
 
 /* No comment provided by engineer. */
 "Privacy Policy" = "Pravila privatnosti";
@@ -121,7 +121,7 @@
 "Settings" = "Postavke";
 
 /* No comment provided by engineer. */
-"Skip" = "Preskoci";
+"Skip" = "Preskoči";
 
 /* No comment provided by engineer. */
 "Sound Alerts Disabled" = "Zvučna upozorenja isključena";
@@ -166,13 +166,13 @@
 "Vibrations" = "Vibracije";
 
 /* No comment provided by engineer. */
-"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Trebaš AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro slušalice za praćenje držanja glave.";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Trebaš AirPods (3rd generation), AirPods Pro, AirPods Max ili Beats Fit Pro slušalice za praćenje pravilnog držanja glave.";
 
 /* No comment provided by engineer. */
-"Your good and bad posture seconds" = "Dobre i loše sekunde držanja glave";
+"Your good and bad posture seconds" = "Dobre i loše sekunde pravilnog držanja glave";
 
 /* No comment provided by engineer. */
-"Your headphones don't support posture tracking" = "Tvoje slušalice ne podržavaju praćenje držanja glave";
+"Your headphones don't support posture tracking" = "Tvoje slušalice ne podržavaju praćenje pravilnog držanja glave";
 
 
 /* ANGLES */
@@ -181,7 +181,7 @@
 "High" = "Visok";
 
 /* PURCHASES */
-"Unlimited Posture Sessions" = "Neograničeno praćenje držanja";
+"Unlimited Posture Sessions" = "Neograničeno praćenje pravilnog držanja";
 "Custom Sensitivity" = "Odabir osjetljivosti";
 "Custom Colors" = "Odabir boja";
 "Extra App Icons" = "Dodatne ikone aplikacije";
@@ -191,17 +191,17 @@
 /* Onboarding */
 /* Titles based on current permission status */
 
-"Motion Data" = "Motion Data";
-"Motion Restricted" = "Motion Restricted";
-"Permission Denied" = "Permission Denied";
-"Ready to Go!" = "Ready to Go!";
+"Motion Data" = "Podaci o pokretu";
+"Motion Restricted" = "Pokreti ograničeni";
+"Permission Denied" = "Dozvola odbijena";
+"Ready to Go!" = "Spremno!";
 
 /* Subtitles based on current permission status */
-"Posture Pal tracks your posture by using your AirPods." = "Posture Pal tracks your posture by using your AirPods.";
-"Motion Data usage is restricted for this device. You can change this in settings." = "Motion Data usage is restricted for this device. You can change this in settings.";
-"Motion Data permission was denied. You can change this in settings." = "Motion Data permission was denied. You can change this in settings.";
-"Posture Pal can use your AirPods to track your posture." = "Posture Pal can use your AirPods to track your posture.";
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal prati tvoje pravilno držanje koristeći AirPods slušalice.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Podaci o pokretu su ograničeni na trenutnom uređaju. Promjeni ograničenje u postavkama.";
+"Motion Data permission was denied. You can change this in settings." = "Podaci o pokretu su odbijeni. Promjeni dozvolu u postavkama.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal koristi tvoje AirPods slušalice za praćenje pravilnog držanja.";
 
-"Request" = "Request";
-"Open Settings" = "Open Settings";
-"Continue" = "Continue";
+"Request" = "Zatraži";
+"Open Settings" = "Otvori Postavke";
+"Continue" = "Nastavi";
