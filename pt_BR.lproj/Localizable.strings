@@ -98,10 +98,10 @@
 /* Onboarding */
 /* Titles based on current permission status */
 
-"Motion Data" = "Motion Data";
-"Motion Restricted" = "Motion Restricted";
-"Permission Denied" = "Permission Denied";
-"Ready to Go!" = "Ready to Go!";
+"Motion Data" = "Dados de Movimento";
+"Motion Restricted" = "Movimento Restrito";
+"Permission Denied" = "Permissão Negada";
+"Ready to Go!" = "Pronto para Começar!";
 
 /* Subtitles based on current permission status */
 "Posture Pal tracks your posture by using your AirPods." = "Posture Pal tracks your posture by using your AirPods.";
