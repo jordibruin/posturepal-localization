@@ -13,3 +13,5 @@ If you want to help translate Posture Pal to your langauge, please make a PR and
 | 🇬🇧 English    | Jordi Bruin   | [Twitter](https://www.twitter.com/jordibruin)     | 😏
 | 🇳🇱 Dutch      | Jordi Bruin   | [Twitter](https://www.twitter.com/jordibruin)     | 😏
 | 🇪🇸 Spanish | Jem Alvarez   | [Twitter](https://www.twitter.com/official_jemal) | 😎
+| 🇭🇺 Hungarian  | Kékesi Kristóf| [Twitter](https://www.twitter.com/kristofkekesi)  | 🥳
+| 🇮🇹 Italian      | Jordi Bruin   | [Twitter](https://www.twitter.com/gianpispi)     | 🦄
