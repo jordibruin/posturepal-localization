@@ -16,5 +16,6 @@ If you want to help translate Posture Pal to your language, please make a PR and
 | 🇪🇸 Spanish | Jem Alvarez   | [Twitter](https://www.twitter.com/official_jemal) | 😎
 | 🇭🇺 Hungarian  | Kékesi Kristóf| [Twitter](https://www.twitter.com/kristofkekesi)  | 🥳
 | 🇮🇹 Italian      | Jordi Bruin   | [Twitter](https://www.twitter.com/gianpispi)     | 🦄
+| 🇩🇪 German      | Florian Schweizer   | [Twitter](https://www.twitter.com/flowritescode)     | 🧑‍💻
 | 🇩🇪 German      | Leo Mehlig   | [Twitter](https://www.twitter.com/leoMehlig)     | 🦁
 | 🇧🇦 Bosnian      | Nedim F   | [Twitter](https://www.twitter.com/nedim0x01)     |⚡️
