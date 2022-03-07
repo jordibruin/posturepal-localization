@@ -1,0 +1,114 @@
+/* 
+  Localizable.strings
+  Posture Pal
+
+  Created by Ömer Ulusal on 07/03/2022.
+  
+*/
+
+/* Generic words */
+"Dismiss" = "Kapat";
+"Loading" = "Yükleniyor";
+"More info" = "Daha fazla bilgi";
+"OK" = "Tamam";
+"Privacy Policy" = "Gizlilik Politikası";
+"Reset" = "Sıfırla";
+"Restore Purchases" = "Satın Almaları Geri Yükle";
+"SCORE" = "PUAN";
+"Back" = "Geri";
+"Get Started" = "Başlayın";
+"Support" = "Destek";
+
+/* The different types of posture qualities. These will be shown on the session complete screen below a number of seconds */
+"Bad" = "Kötü";
+"Good" = "İyi";
+"Great" = "Harika";
+
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal AirPods'unuzu kullanarak sırt ve omuz duruşunuzu geliştirmenize yardımcı olur!";
+"Posture Tracking Sensitivity" = "Duruş Takip Hassaslığı";
+
+"10 minute time limit reached" = "10 dakika limiti doldu";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Posture Pal'in seni uyarmasını istediği seviyeyi belirle";
+
+/* shown when user presses the live updating bar */
+"Your good and bad posture seconds" = "İyi ve kötü duruş saniyeleri";
+
+/* Permissions */
+"No permission" = "İzin yok";
+"Authorization status is denied" = "Yetkilendirme reddedildi";
+"Authorization status is restricted" = "Yetkilendirme kısıtlı";
+"Authorization status is unknown" = "Yetkilendirme durumu bilinmiyor";
+"Device motion is active" = "Cihaz hareketi aktif";
+"Device motion is already active." = "Cihaz hareketi zaten aktif.";
+
+"Connect supported AirPods to track your posture" = "Duruşunuzu takip etmek için AirPods'unuzu bağlayın.";
+"Your headphones don't support posture tracking" = "Kulaklıklarınız duruş takibini desteklemiyor.";
+"Please, re-connect your headphones." = "Lütfen kulaklıklarınızı tekrar bağlayın.";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Destekleyen cihazlar: AirPods (3rd generation), AirPods Pro, AirPods Max veya Beats Fit Pro.";
+
+
+/* Shown on the colors screen to prompt users to upgrade */
+"Colors will reset on relaunch" = "Uygulama sıfırdan açıldığında renkler yeniden ayarlanacak.";
+"Go Pro" = "Pro Satın Al";
+
+/* Posture Pal Pro screen */
+/* No need to change this */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+"Posture Pal\nPro" = "Posture Pal\nPro";
+"App Icons" = "Uygulama İkonları";
+"Unlimited Posture Sessions" = "Sınırsız Duruş Seansı";
+"Custom Sensitivity" = "Değiştirilebilir Hassaslık";
+"Custom Colors" = "Size Özel Renkler";
+"Extra App Icons" = "Ekstra Uygulama İkonları";
+"Unlock for %@" = "%@ kullanmak için";
+"Terms of Use" = "Kullanım Koşulları";
+"Thanks for being a Pro!" = "Pro satın aldığınız için teşekkürler!";
+
+/* Notifications */
+"Make your phone vibrate whenever your posture is bad." = "Duruşunuz bozulduğunda titreşim yoluyla uyarır.";
+"No pages for this support item" = "Bu cihaz için sayfa bulunamadı.";
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Duruşunuz bozulduğunda AirPods'ta hafif bir ses çalarak uyar.";
+
+/* Sensitivity */
+"Sensitivity" = "Hassaslık";
+"Sensitivity: %@" = "Hassaslık: %@";
+"Custom Angle %@" = "Değiştirilebilir Açı %@";
+"Session Complete" = "Seans Tamamlandı";
+"Settings" = "Ayarlar";
+"Skip" = "Atla";
+
+"Sounds" = "Sesler";
+"Sound Alerts Disabled" = "Sesli Uyarılar Kapalı";
+"Sound Alerts Enabled" = "Sesli Uyarılar Açık";
+
+"Vibrations" = "Titreşimler";
+"Vibration Alerts Disabled" = "Titreşimle Uyarı Kapalı";
+"Vibration Alerts Enabled" = "Titreşimle Uyarı Açık";
+
+"Start Tracking" = "Seansı Başlat";
+"Stop Tracking" = "Seansı Durdur";
+
+"Update now" = "Güncelle";
+
+/* The built in angles, low medium and high settings */
+"Low" = "Düşük";
+"Medium" = "Orta";
+"High" = "Yüksek";
+
+/* Onboarding */
+/* Titles based on current permission status */
+
+"Motion Data" = "Hareket Verisi";
+"Motion Restricted" = "Hareket Verisi Kısıtlı";
+"Permission Denied" = "İzin Verilmedi";
+"Ready to Go!" = "Başlamaya Hazır!";
+
+/* Subtitles based on current permission status */
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal AirPods'unuzu kullanarak duruşunuzu takip eder.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Hareket Verisi bu cihaz için kısıtlı. Ayarlar'dan bunu değiştirebilirsiniz.";
+"Motion Data permission was denied. You can change this in settings." = "Hareket Verisi izni verilmedi. Ayarlar'dan bunu değiştirebilirsiniz.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal duruşunuzu takip etmek için AirPods'unuzu kullanabilir.";
+
+"Request" = "Talep Et";
+"Open Settings" = "Ayarları Aç";
+"Continue" = "Devam Et";
