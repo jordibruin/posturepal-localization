@@ -34,17 +34,17 @@
 "Your good and bad posture seconds" = "Os seus segundos de boa e má postura";
 
 /* Permissions */
-"No permission" = "No permission";
-"Authorization status is denied" = "Authorization status is denied";
-"Authorization status is restricted" = "Authorization status is restricted";
-"Authorization status is unknown" = "Authorization status is unknown";
-"Device motion is active" = "Device motion is active";
-"Device motion is already active." = "Device motion is already active.";
+"No permission" = "Sem permissão";
+"Authorization status is denied" = "O estado de autorização é negado.";
+"Authorization status is restricted" = "O estado de autorização é restrito.";
+"Authorization status is unknown" = "O estado de autorização é desconhecido.";
+"Device motion is active" = "O movimento do dispositivo está ativo";
+"Device motion is already active." = "O movimento do dispositivo já está ativo.";
 
-"Connect supported AirPods to track your posture" = "Connect supported AirPods to track your posture";
-"Your headphones don't support posture tracking" = "Your headphones don't support posture tracking";
-"Please, re-connect your headphones." = "Please, re-connect your headphones.";
-"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture.";
+"Connect supported AirPods to track your posture" = "Conecte AirPods compatíveis para rastrear a sua postura";
+"Your headphones don't support posture tracking" = "Os seus fones de ouvido não suportam rastreamento de postura";
+"Please, re-connect your headphones." = "Por favor, conecte os seus fones de ouvido novamente";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Você precisa de um AirPods (3ª Geração), AirPods Pro, AirPods Max ou Beats Fir Pro para rastrear a sua postura.";
 
 
 /* Shown on the colors screen to prompt users to upgrade */
