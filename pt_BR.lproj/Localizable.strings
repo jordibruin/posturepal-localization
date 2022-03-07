@@ -25,7 +25,7 @@
 "Great" = "Ótimo";
 
 "Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal ajuda a corrigir a postura da sua cabeça e pescoço com os seus AirPods!";
-"Posture Tracking Sensitivity" = "Sensibilidade do Rastreamento de Postura";
+"Posture Tracking Sensitivity" = "Sensibilidade do Monitoramento de Postura";
 
 "10 minute time limit reached" = "Limite de 10 minutos excedido";
 "Adjust how bad your posture needs to be before Posture Pal alerts you" = "Ajuste o quão ruim a sua postura precisa ser antes que o Posture Pal o alerte";
@@ -41,10 +41,10 @@
 "Device motion is active" = "O movimento do dispositivo está ativo";
 "Device motion is already active." = "O movimento do dispositivo já está ativo.";
 
-"Connect supported AirPods to track your posture" = "Conecte AirPods compatíveis para rastrear a sua postura";
-"Your headphones don't support posture tracking" = "Os seus fones de ouvido não suportam rastreamento de postura";
+"Connect supported AirPods to track your posture" = "Conecte AirPods compatíveis para monitorar a sua postura";
+"Your headphones don't support posture tracking" = "Os seus fones de ouvido não suportam monitoramento de postura";
 "Please, re-connect your headphones." = "Por favor, conecte os seus fones de ouvido novamente";
-"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Você precisa de um AirPods (3ª Geração), AirPods Pro, AirPods Max ou Beats Fir Pro para rastrear a sua postura.";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Você precisa de um AirPods (3ª Geração), AirPods Pro, AirPods Max ou Beats Fir Pro para monitorar a sua postura.";
 
 
 /* Shown on the colors screen to prompt users to upgrade */
@@ -70,23 +70,23 @@
 "Play a subtle sound through your AirPods whenever your posture is bad" = "Reproduza um som sútil em seus AirPods quando a sua postura estiver ruim.";
 
 /* Sensitivity */
-"Sensitivity" = "Sensitivity";
-"Sensitivity: %@" = "Sensitivity: %@";
-"Custom Angle %@" = "Custom Angle %@";
-"Session Complete" = "Session Complete";
+"Sensitivity" = "Sensibilidade";
+"Sensitivity: %@" = "Sensibilidade: %@";
+"Custom Angle %@" = "Ângulo Personalizado %@";
+"Session Complete" = "Sessão Finalizada";
 "Settings" = "Ajustes";
-"Skip" = "Skip";
+"Skip" = "Pular";
 
 "Sounds" = "Sons";
 "Sound Alerts Disabled" = "Alertas Sonoros Desabilitados";
 "Sound Alerts Enabled" = "Alertas Sonoros Abilitados";
 
-"Vibrations" = "Vibrations";
-"Vibration Alerts Disabled" = "Vibration Alerts Disabled";
-"Vibration Alerts Enabled" = "Vibration Alerts Enabled";
+"Vibrations" = "Vibrações";
+"Vibration Alerts Disabled" = "Alertas de Vibração Desabilitados";
+"Vibration Alerts Enabled" = "Alertas de Vibração Abilitados";
 
-"Start Tracking" = "Start Tracking";
-"Stop Tracking" = "Stop Tracking";
+"Start Tracking" = "Iniciar Monitoramento";
+"Stop Tracking" = "Finalizar Monitoramento";
 
 "Update now" = "Atualize agora";
 
