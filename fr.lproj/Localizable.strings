@@ -1,0 +1,97 @@
+/* 
+  Localizable.strings
+  Posture Pal
+
+  Created by Benjamin THOMAS on 07/03/2022.
+  
+*/
+
+/* Generic words */
+"Dismiss" = "Fermer";
+"Loading" = "Chargement";
+"More info" = "Plus d'informations";
+"OK" = "OK";
+"Privacy Policy" = "Politique de confidentialité";
+"Reset" = "Réinitialiser";
+"Restore Purchases" = "Restaurer les achats";
+"SCORE" = "SCORE";
+"Back" = "Retour";
+"Get Started" = "Commencer";
+"Support" = "Support";
+
+/* The different types of posture qualities. These will be shown on the session complete screen below a number of seconds */
+"Bad" = "Mauvais";
+"Good" = "Bon";
+"Great" = "Génial";
+
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal vous aide à améliorer la posture de votre tête et de votre cou avec vos AirPods !";
+"Posture Tracking Sensitivity" = "Sensibilité du suivi de la posture";
+
+"10 minute time limit reached" = "Limite de temps de 10 minutes atteinte";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Ajustez à quel point votre posture doit être mauvaise avant que Posture Pal ne vous alerte";
+
+/* shown when user presses the live updating bar */
+"Your good and bad posture seconds" = "Vos bonnes et mauvaises secondes de posture";
+
+/* Permissions */
+"No permission" = "Aucune autorisation";
+"Authorization status is denied" = "L'autorisation est refusé";
+"Authorization status is restricted" = "L'autorisation est restreinte";
+"Authorization status is unknown" = "L'autorisation est inconnue";
+"Device motion is active" = "Le mouvement de l'appareil est activé";
+"Device motion is already active." = "Le mouvement de l'appareil est déjà activé";
+
+"Connect supported AirPods to track your posture" = "Connectez les AirPods pris en charge pour suivre votre posture";
+"Your headphones don't support posture tracking" = "Your headphones don't support posture trackingVos écouteurs ne prennent pas en charge le suivi de la posture";
+"Please, re-connect your headphones." = "Veuillez reconnecter vos écouteurs.";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Vous avez besoin d'AirPods (3e génération), d'AirPods Pro, d'AirPods Max ou de Beats Fit Pro pour suivre votre posture.";
+
+
+/* Shown on the colors screen to prompt users to upgrade */
+"Colors will reset on relaunch" = "Les couleurs seront réinitialisées au redémarrage";
+"Go Pro" = "Offre Pro";
+
+/* Posture Pal Pro screen */
+/* No need to change this */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+"Posture Pal\nPro" = "Posture Pal\nPro";
+"App Icons" = "App Icons";
+"Unlimited Posture Sessions" = "Unlimited Posture Sessions";
+"Custom Sensitivity" = "Custom Sensitivity";
+"Custom Colors" = "Custom Colors";
+"Extra App Icons" = "Extra App Icons";
+"Unlock for %@" = "Unlock for %@";
+"Terms of Use" = "Terms of Use";
+"Thanks for being a Pro!" = "Thanks for being a Pro!";
+
+/* Notifications */
+"Make your phone vibrate whenever your posture is bad." = "Faites vibrer votre téléphone chaque fois que votre posture est mauvaise.";
+"No pages for this support item" = "Aucune page pour cet élément de support";
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Jouez un son subtil à travers vos AirPods chaque fois que votre posture est mauvaise";
+
+/* Sensitivity */
+"Sensitivity" = "Sensibilité";
+"Sensitivity: %@" = "Sensibilité: %@";
+"Custom Angle %@" = "Angle personnalisé %@";
+"Session Complete" = "Session terminée";
+"Settings" = "Réglages";
+"Skip" = "Passer";
+
+"Sounds" = "Sons";
+"Sound Alerts Disabled" = "Alertes sonores désactivées";
+"Sound Alerts Enabled" = "Alertes sonores activées";
+
+"Vibrations" = "Vibrations";
+"Vibration Alerts Disabled" = "Alertes de vibration désactivées";
+"Vibration Alerts Enabled" = "Alertes de vibration activées";
+
+"Start Tracking" = "Démarrer la session";
+"Stop Tracking" = "Arrêter la session";
+
+"Update now" = "Modifier maintenant";
+
+/* The built in angles, low medium and high settings */
+"Low" = "Petit";
+"Medium" = "Moyen";
+"High" = "Elevé";
+
