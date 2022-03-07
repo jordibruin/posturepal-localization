@@ -8,16 +8,16 @@
 
 /* Generic words */
 "Dismiss" = "Dismiss";
-"Loading" = "Loading";
-"More info" = "More info";
+"Loading" = "Carregando";
+"More info" = "Mais informações";
 "OK" = "OK";
-"Privacy Policy" = "Privacy Policy";
-"Reset" = "Reset";
-"Restore Purchases" = "Restore Purchases";
-"SCORE" = "SCORE";
-"Back" = "Back";
-"Get Started" = "Get Started";
-"Support" = "Support";
+"Privacy Policy" = "Política de Privacidade";
+"Reset" = "Reiniciar";
+"Restore Purchases" = "Restaurar Compras";
+"SCORE" = "PONTUAÇÃO";
+"Back" = "Voltar";
+"Get Started" = "Iniciar";
+"Support" = "Suporte";
 
 /* The different types of posture qualities. These will be shown on the session complete screen below a number of seconds */
 "Bad" = "Bad";
