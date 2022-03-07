@@ -20,15 +20,15 @@
 "Support" = "Suporte";
 
 /* The different types of posture qualities. These will be shown on the session complete screen below a number of seconds */
-"Bad" = "Bad";
-"Good" = "Good";
-"Great" = "Great";
+"Bad" = "Ruim";
+"Good" = "Bom";
+"Great" = "Ótimo";
 
-"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal helps you improve your head and neck posture with your AirPods!";
-"Posture Tracking Sensitivity" = "Posture Tracking Sensitivity";
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal ajuda a corrigir a postura da sua cabeça e pescoço com os seus AirPods!";
+"Posture Tracking Sensitivity" = "Sensibilidade do Rastreamento de Postura";
 
-"10 minute time limit reached" = "10 minute time limit reached";
-"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Adjust how bad your posture needs to be before Posture Pal alerts you";
+"10 minute time limit reached" = "Limite de 10 minutos excedido";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Ajuste o quão ruim a sua postura precisa ser antes que o Posture Pal o alerte";
 
 /* shown when user presses the live updating bar */
 "Your good and bad posture seconds" = "Your good and bad posture seconds";
