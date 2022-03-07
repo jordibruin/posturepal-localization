@@ -19,3 +19,4 @@ If you want to help translate Posture Pal to your language, please make a PR and
 | 🇩🇪 German      | Florian Schweizer   | [Twitter](https://www.twitter.com/flowritescode)     | 🧑‍💻
 | 🇩🇪 German      | Leo Mehlig   | [Twitter](https://www.twitter.com/leoMehlig)     | 🦁
 | 🇧🇦 Bosnian      | Nedim F   | [Twitter](https://www.twitter.com/nedim0x01)     |⚡️
+| 🇵🇱 Polish      | Kris Slazinski   | [Twitter](https://www.twitter.com/KSlazinski)     |🎸
