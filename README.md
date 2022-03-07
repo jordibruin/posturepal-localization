@@ -23,6 +23,7 @@ You will receive a promo code to unlock Posture Pal Pro for free. It should take
 | 🇩🇪 German      | Florian Schweizer   | [Twitter](https://www.twitter.com/flowritescode)     | 🧑‍💻
 | 🇩🇪 German      | Leo Mehlig   | [Twitter](https://www.twitter.com/leoMehlig)     | 🦁
 | 🇧🇦 Bosnian      | Nedim F   | [Twitter](https://www.twitter.com/nedim0x01)     |⚡️
+| 🇧🇷 Portuguese (Brazil)      | Tomás Martins   | [Twitter](https://www.twitter.com/tommycadle)     |📷
 | 🇵🇱 Polish      | Kris Slazinski   | [Twitter](https://www.twitter.com/KSlazinski)     |🎸
 | 🇹🇷 Turkish      | Ömer Ulusal   | [Twitter](https://www.twitter.com/ulusalomer)     | 🇺🇦
 | 🇭🇷 Croatian      | Danijela Vrzan   | [Twitter](https://www.twitter.com/dvrzan)     | 👻
