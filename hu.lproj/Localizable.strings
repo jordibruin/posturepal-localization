@@ -185,3 +185,22 @@
 "Custom Sensitivity" = "Saját érzékenység";
 "Custom Colors" = "Saját színek";
 "Extra App Icons" = "Extra App Ikonok";
+
+
+/* Onboarding */
+/* Titles based on current permission status */
+
+"Motion Data" = "Motion Data";
+"Motion Restricted" = "Motion Restricted";
+"Permission Denied" = "Permission Denied";
+"Ready to Go!" = "Ready to Go!";
+
+/* Subtitles based on current permission status */
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal tracks your posture by using your AirPods.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Motion Data usage is restricted for this device. You can change this in settings.";
+"Motion Data permission was denied. You can change this in settings." = "Motion Data permission was denied. You can change this in settings.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal can use your AirPods to track your posture.";
+
+"Request" = "Request";
+"Open Settings" = "Open Settings";
+"Continue" = "Continue";
