@@ -2,15 +2,14 @@
   Localizable.strings
   Posture Pal
 
-  Created by Florian Schweizer on 06/03/2022.
-  
-*/
+Created by Florian Schweizer on 06/03/2022.
 
 /* No comment provided by engineer. */
+
 "10 minute time limit reached" = "10 Minuten Zeitlimit erreicht";
 
 /* No comment provided by engineer. */
-"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Stelle ein wie schlecht deine Haltung sein muss bevor Posture Pal sich meldet";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Stelle ein, wie schlecht deine Haltung muss, bevor dich Posture Pal warnt.";
 
 /* No comment provided by engineer. */
 "App Icons" = "App Icons";
@@ -34,20 +33,21 @@
 "Colors will reset on relaunch" = "Farben setzen sich beim Neustart zurück";
 
 /* No comment provided by engineer. */
-"Connect supported AirPods to track your posture" = "Verbinde unterstützte AirPods um deine Haltung zu tracken";
+"Connect supported AirPods to track your posture" = "Verbinde unterstützte AirPods, um deine Haltung zu überwachen";
+
+/* No comment provided by engineer. */
+"Device motion is active" = "Bewegungssensor ist aktiv";
+
+/* No comment provided by engineer. */
+"Device motion is already active." = "Bewegungssensor ist bereits aktiv.";
 
 /* No comment provided by engineer. */
 "Custom Angle %@" = "Benutzerdefinierter Winkel %@";
 
 /* No comment provided by engineer. */
-"Device motion is active" = "Gerätebewegung ist aktiv";
-
-/* No comment provided by engineer. */
-"Device motion is already active." = "Gerätebewegung ist bereits aktiv.";
-
-/* No comment provided by engineer. */
 "Dismiss" = "Schließen";
 
+/* No comment provided by engineer. */
 /* No comment provided by engineer. */
 "Get Started" = "Los gehts";
 
@@ -58,24 +58,23 @@
 "Good" = "Gut";
 
 /* No comment provided by engineer. */
-"Great" = "Sehr gut";
+"Great" = "Super";
+
+/* No comment provided by engineer. */
+"Make your phone vibrate whenever your posture is bad." = "Lass dein Handy vibrieren, wenn deine Haltung schlecht ist.";
+
+/* No comment provided by engineer. */
+"No pages for this support item" = "Keine Seite für diesen Hilfe-Eintrag";
 
 /* No comment provided by engineer. */
 "Loading" = "Laden";
 
 /* No comment provided by engineer. */
-"Make your phone vibrate whenever your posture is bad." = "Lass dein Handy vibrieren sobald du eine schlechte Haltung hast.";
-
-/* No comment provided by engineer. */
 "More info" = "Mehr info";
-
-/* No comment provided by engineer. */
-"No pages for this support item" = "Keine Seiten für diesen Supportbereich";
 
 /* No comment provided by engineer. */
 "No permission" = "Keine Erlaubnis";
 
-/* No comment provided by engineer. */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
@@ -91,13 +90,12 @@
 "Posture Pal\nPro" = "Posture Pal\nPro";
 
 /* No comment provided by engineer. */
+"Posture Tracking Sensitivity" = "Haltungs-Überwachungs Sensitivität";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Datenschutzerklärung";
+
 "Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal hilft dir deine Kopf- und Nackenhaltung mit deinen AirPods zu verbessern!";
-
-/* No comment provided by engineer. */
-"Posture Tracking Sensitivity" = "Haltungs-Tracking Sensitivität";
-
-/* No comment provided by engineer. */
-"Privacy Policy" = "Privacy Policy";
 
 /* No comment provided by engineer. */
 "Reset" = "Zurücksetzen";
@@ -115,7 +113,7 @@
 "Sensitivity: %@" = "Sensitivität: %@";
 
 /* No comment provided by engineer. */
-"Session Complete" = "Session Abgeschlossen";
+"Session Complete" = "Sitzung beendet";
 
 /* No comment provided by engineer. */
 "Settings" = "Einstellungen";
@@ -124,49 +122,53 @@
 "Skip" = "Überspringen";
 
 /* No comment provided by engineer. */
-"Sound Alerts Disabled" = "Ton-Benachrichtigungen deaktiviert";
+"Sound Alerts Disabled" = "Tonwarnungen deaktiviert";
 
 /* No comment provided by engineer. */
-"Sound Alerts Enabled" = "Ton-Benachrichtigungen aktiviert";
+"Sound Alerts Enabled" = "Tonwarnungen aktiviert";
+
+/* No comment provided by engineer. */
+"Start Tracking" = "Überwachung starten";
+
+/* No comment provided by engineer. */
+"Stop Tracking" = "Überwachung stoppen";
+
+/* No comment provided by engineer. */
+"Support" = "Hilfe";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "AGB";
+
+/* No comment provided by engineer. */
+"Then just %@%.2f per week billed yearly \n%@ per %@" = "Dann nur %@%.2f pro Woche, jährlich abgebucht \n%@ pro %@";
+
+/* No comment provided by engineer. */
+"Unlock for %@" = "Für %@ freischalten";
 
 /* No comment provided by engineer. */
 "Sounds" = "Töne";
 
 /* No comment provided by engineer. */
-"Start Tracking" = "Tracking starten";
-
-/* No comment provided by engineer. */
-"Stop Tracking" = "Tracking stoppen";
-
-/* No comment provided by engineer. */
-"Support" = "Support";
-
-/* No comment provided by engineer. */
-"Terms of Use" = "Terms of Use";
-
-/* No comment provided by engineer. */
 "Thanks for being a Pro!" = "Danke, dass du ein Pro bist!";
-
-/* No comment provided by engineer. */
-"Then just %@%.2f per week billed yearly \n%@ per %@" = "Danach nur %@%.2f pro Woche jährlich bezahlt \n%@ pro %@";
-
-/* No comment provided by engineer. */
-"Unlock for %@" = "Freischalten für %@";
 
 /* No comment provided by engineer. */
 "Update now" = "Jetzt updaten";
 
 /* No comment provided by engineer. */
-"Vibration Alerts Disabled" = "Vibrations-Benachrichtigungen Deaktiviert";
+
+"Vibration Alerts Disabled" = "Vibrationswarnungen deaktiviert";
 
 /* No comment provided by engineer. */
-"Vibration Alerts Enabled" = "Vibrations-Benachrichtigungen aktiviert";
+"Vibration Alerts Enabled" = "Vibrationswarnungen aktiviert";
 
 /* No comment provided by engineer. */
 "Vibrations" = "Vibrationen";
 
 /* No comment provided by engineer. */
-"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Du brauchst AirPods (3te Generation), AirPods Pro, AirPods Max oder Beats Fit Pro um deine Haltung zu tracken.";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Du brauchst AirPods (3. Generation), AirPods Pro, AirPods Max oder Beast Fit Pro, um deine Haltung zu überwachen.";
+
+/* No comment provided by engineer. */
+"Your headphones don't support posture tracking" = "Deine Kopfhörer unterstützten die Haltungs-Überwachung nicht";
 
 /* No comment provided by engineer. */
 "Your good and bad posture seconds" = "Deine guten und schlechten Haltungs-Sekunden";
@@ -181,7 +183,7 @@
 "High" = "Hoch";
 
 /* PURCHASES */
-"Unlimited Posture Sessions" = "Unbegrenzte Haltungs-Sessions";
+"Unlimited Posture Sessions" = "Unbegrenzte Haltungs-Sitzungen";
 "Custom Sensitivity" = "Benutzerdefinierte Sensitivität";
 "Custom Colors" = "Benutzerdefinierte Farben";
 "Extra App Icons" = "Extra App Icons";
