@@ -1,0 +1,187 @@
+/* 
+  Localizable.strings
+  Posture Pal
+
+  Created by Jordi Bruin on 05/03/2022.
+  
+*/
+
+/* No comment provided by engineer. */
+"10 minute time limit reached" = "10-minutni vremenski limit dosegnut";
+
+/* No comment provided by engineer. */
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Namjesti koliko loše tvoje držanje mora biti prije nego te Posture Pal obavijesti";
+
+/* No comment provided by engineer. */
+"App Icons" = "Ikone aplikacije";
+
+/* No comment provided by engineer. */
+"Authorization status is denied" = "Autorizacija odbijena";
+
+/* No comment provided by engineer. */
+"Authorization status is restricted" = "Autorizacijski status ograničen";
+
+/* No comment provided by engineer. */
+"Authorization status is unknown" = "Autorizacijski status nepoznat";
+
+/* No comment provided by engineer. */
+"Back" = "Nazad";
+
+/* No comment provided by engineer. */
+"Bad" = "Loše";
+
+/* No comment provided by engineer. */
+"Colors will reset on relaunch" = "Boje će se resetirati nakon ponovnog pokretanja aplikacije";
+
+/* No comment provided by engineer. */
+"Connect supported AirPods to track your posture" = "Poveži podržane AirPods slušalice za praćenje držanja";
+
+/* No comment provided by engineer. */
+"Custom Angle %@" = "Odabir kuta %@";
+
+/* No comment provided by engineer. */
+"Device motion is active" = "Praćenje pokreta slušalica uključeno";
+
+/* No comment provided by engineer. */
+"Device motion is already active." = "Praćenje pokreta slušalica je već uključeno.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Odbaci";
+
+/* No comment provided by engineer. */
+"Get Started" = "Započni";
+
+/* No comment provided by engineer. */
+"Go Pro" = "Odaberi Pro";
+
+/* No comment provided by engineer. */
+"Good" = "Dobro";
+
+/* No comment provided by engineer. */
+"Great" = "Odlično";
+
+/* No comment provided by engineer. */
+"Loading" = "Učitavanje";
+
+/* No comment provided by engineer. */
+"Make your phone vibrate whenever your posture is bad." = "Mobitel će zavibrirati svaki put kad je držanje loše.";
+
+/* No comment provided by engineer. */
+"More info" = "Više informacija";
+
+/* No comment provided by engineer. */
+"No pages for this support item" = "Ne postoji stranica za ovu stavku";
+
+/* No comment provided by engineer. */
+"No permission" = "Nedopušteno";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Mobitel će pustiti suptilan zvuk svaki put kad je držanje loše";
+
+/* No comment provided by engineer. */
+"Please, re-connect your headphones." = "Ponovno spojite slušalice.";
+
+/* No comment provided by engineer. */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+
+/* No comment provided by engineer. */
+"Posture Pal\nPro" = "Posture Pal\nPro";
+
+/* No comment provided by engineer. */
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal pomaže održavanju dobrog držanja glave i vrata dok nosite AirPods slušalice!";
+
+/* No comment provided by engineer. */
+"Posture Tracking Sensitivity" = "Osjetljivost praćenja držanja";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Pravila privatnosti";
+
+/* No comment provided by engineer. */
+"Reset" = "Ponovno namještanje";
+
+/* No comment provided by engineer. */
+"Restore Purchases" = "Povrat kupnje";
+
+/* No comment provided by engineer. */
+"SCORE" = "BODOVI";
+
+/* No comment provided by engineer. */
+"Sensitivity" = "Osjetljivost";
+
+/* No comment provided by engineer. */
+"Sensitivity: %@" = "Osjetljivost: %@";
+
+/* No comment provided by engineer. */
+"Session Complete" = "Gotovo";
+
+/* No comment provided by engineer. */
+"Settings" = "Postavke";
+
+/* No comment provided by engineer. */
+"Skip" = "Preskoci";
+
+/* No comment provided by engineer. */
+"Sound Alerts Disabled" = "Zvučna upozorenja isključena";
+
+/* No comment provided by engineer. */
+"Sound Alerts Enabled" = "Zvučna upozorenja uključena";
+
+/* No comment provided by engineer. */
+"Sounds" = "Zvukovi";
+
+/* No comment provided by engineer. */
+"Start Tracking" = "Započni praćenje";
+
+/* No comment provided by engineer. */
+"Stop Tracking" = "Zaustavi praćenje";
+
+/* No comment provided by engineer. */
+"Support" = "Podrška";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "Pravila korištenja";
+
+/* No comment provided by engineer. */
+"Thanks for being a Pro!" = "Hvala što koristiš Pro verziju!";
+
+/* No comment provided by engineer. */
+"Then just %@%.2f per week billed yearly \n%@ per %@" = "Onda samo %@%.2f tjedno, naplaćuje se godišnje \n%@ po %@";
+
+/* No comment provided by engineer. */
+"Unlock for %@" = "Otključaj za %@";
+
+/* No comment provided by engineer. */
+"Update now" = "Ažuriraj";
+
+/* No comment provided by engineer. */
+"Vibration Alerts Disabled" = "Upozorenja vibracijama onemogućena";
+
+/* No comment provided by engineer. */
+"Vibration Alerts Enabled" = "Upozorenja vibracijama omogućena";
+
+/* No comment provided by engineer. */
+"Vibrations" = "Vibracije";
+
+/* No comment provided by engineer. */
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Trebaš AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro slušalice za praćenje držanja glave.";
+
+/* No comment provided by engineer. */
+"Your good and bad posture seconds" = "Dobre i loše sekunde držanja glave";
+
+/* No comment provided by engineer. */
+"Your headphones don't support posture tracking" = "Tvoje slušalice ne podržavaju praćenje držanja glave";
+
+
+/* ANGLES */
+"Low" = "Nizak";
+"Medium" = "Srednji";
+"High" = "Visok";
+
+/* PURCHASES */
+"Unlimited Posture Sessions" = "Neograničeno praćenje držanja";
+"Custom Sensitivity" = "Odabir osjetljivosti";
+"Custom Colors" = "Odabir boja";
+"Extra App Icons" = "Dodatne ikone aplikacije";
