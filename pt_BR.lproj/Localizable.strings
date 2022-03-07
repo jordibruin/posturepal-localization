@@ -55,14 +55,14 @@
 /* No need to change this */
 "Posture\nPal Pro" = "Posture\nPal Pro";
 "Posture Pal\nPro" = "Posture Pal\nPro";
-"App Icons" = "App Icons";
-"Unlimited Posture Sessions" = "Unlimited Posture Sessions";
-"Custom Sensitivity" = "Custom Sensitivity";
-"Custom Colors" = "Custom Colors";
-"Extra App Icons" = "Extra App Icons";
-"Unlock for %@" = "Unlock for %@";
-"Terms of Use" = "Terms of Use";
-"Thanks for being a Pro!" = "Thanks for being a Pro!";
+"App Icons" = "Ícones do aplicativo";
+"Unlimited Posture Sessions" = "Sessões ilimitadas de postura";
+"Custom Sensitivity" = "Sensibilidade customizada";
+"Custom Colors" = "Cores Customizadas";
+"Extra App Icons" = "Ícones de aplicativo adicionais";
+"Unlock for %@" = "Desbloqueie por %@";
+"Terms of Use" = "Termos de Uso";
+"Thanks for being a Pro!" = "Obrigado por ser Pro!";
 
 /* Notifications */
 "Make your phone vibrate whenever your posture is bad." = "Make your phone vibrate whenever your posture is bad.";
@@ -74,12 +74,12 @@
 "Sensitivity: %@" = "Sensitivity: %@";
 "Custom Angle %@" = "Custom Angle %@";
 "Session Complete" = "Session Complete";
-"Settings" = "Settings";
+"Settings" = "Ajustes";
 "Skip" = "Skip";
 
-"Sounds" = "Sounds";
-"Sound Alerts Disabled" = "Sound Alerts Disabled";
-"Sound Alerts Enabled" = "Sound Alerts Enabled";
+"Sounds" = "Sons";
+"Sound Alerts Disabled" = "Alertas Sonoros Desabilitados";
+"Sound Alerts Enabled" = "Alertas Sonoros Abilitados";
 
 "Vibrations" = "Vibrations";
 "Vibration Alerts Disabled" = "Vibration Alerts Disabled";
@@ -88,7 +88,7 @@
 "Start Tracking" = "Start Tracking";
 "Stop Tracking" = "Stop Tracking";
 
-"Update now" = "Update now";
+"Update now" = "Atualize agora";
 
 /* The built in angles, low medium and high settings */
 "Low" = "Low";
