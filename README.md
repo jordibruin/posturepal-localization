@@ -6,7 +6,9 @@ Posture Pal is an iOS app that helps you improve your posture thanks to the moti
 You can pre-order Posture Pal right now.
 https://apps.apple.com/us/app/posture-pal-improve-stance/id1590316152
 
-If you want to help translate Posture Pal to your language, please make a PR and fill in the info below so I can credit you in the app! You will receive a promo code to unlock Posture Pal Pro for free. It should take 5 minutes of your time, thanks a lot!
+If you want to help translate Posture Pal to your language, please make a PR and fill in the info below so I can credit you in the app! It's also a good idea to already mark yourself on the list below if you're still working on it, so that nobody else does work that's not necessary! Y
+
+ou will receive a promo code to unlock Posture Pal Pro for free. It should take 5-10 minutes of your time, thanks a lot!
 
 | Language      | Translator    | Twitter                                          | Emoji |
 | ------------- |:-------------:| ------------------------------------------------:|------:|
