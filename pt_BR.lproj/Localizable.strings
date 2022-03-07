@@ -91,9 +91,9 @@
 "Update now" = "Atualize agora";
 
 /* The built in angles, low medium and high settings */
-"Low" = "Low";
-"Medium" = "Medium";
-"High" = "High";
+"Low" = "Baixo";
+"Medium" = "Médio";
+"High" = "Alto";
 
 /* Onboarding */
 /* Titles based on current permission status */
