@@ -1,0 +1,205 @@
+/*
+  Localizable.strings
+  Posture Pal
+
+  Created by Jordi Bruin on 05/03/2022.
+  
+*/
+
+/* No comment provided by engineer. */
+"10 minute time limit reached" = "10 minutters tidsgrænse nået";
+
+/* No comment provided by engineer. */
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Juster hvor dårlig din kropsholdning skal være før Posture Pal advarer dig.";
+
+/* No comment provided by engineer. */
+"App Icons" = "App-ikoner";
+
+/* No comment provided by engineer. */
+"Authorization status is denied" = "Authorization status is denied";
+
+/* No comment provided by engineer. */
+"Authorization status is restricted" = "Authorization status is restricted";
+
+/* No comment provided by engineer. */
+"Authorization status is unknown" = "Authorization status is unknown";
+
+/* No comment provided by engineer. */
+"Back" = "Tilbage";
+
+/* No comment provided by engineer. */
+"Bad" = "Dårlig";
+
+/* No comment provided by engineer. */
+"Colors will reset on relaunch" = "Farverne nulstilles ved genstart";
+
+/* No comment provided by engineer. */
+"Connect supported AirPods to track your posture" = "Tilslut understøttende AirPods for at spore din kropsholdning";
+
+/* No comment provided by engineer. */
+"Custom Angle %@" = "Brugerdefineret vinkel %@";
+
+/* No comment provided by engineer. */
+"Device motion is active" = "Device motion is active";
+
+/* No comment provided by engineer. */
+"Device motion is already active." = "Device motion is already active.";
+
+/* No comment provided by engineer. */
+"Dismiss" = "Afvis";
+
+/* No comment provided by engineer. */
+"Get Started" = "Kom godt gang";
+
+/* No comment provided by engineer. */
+"Go Pro" = "Go Pro";
+
+/* No comment provided by engineer. */
+"Good" = "Godt";
+
+/* No comment provided by engineer. */
+"Great" = "Fantastisk";
+
+/* No comment provided by engineer. */
+"Loading" = "Indlæser";
+
+/* No comment provided by engineer. */
+"Make your phone vibrate whenever your posture is bad." = "Få din telefon til at vibrere, når din kropsholdning er dårlig.";
+
+/* No comment provided by engineer. */
+"More info" = "Mere info";
+
+/* No comment provided by engineer. */
+"No pages for this support item" = "Ingen sider for dette supportelement";
+
+/* No comment provided by engineer. */
+"No permission" = "Ingen tilladelse";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
+/* No comment provided by engineer. */
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Afspil en subtil lyd gennem dine AirPods, når din kropsholdning er dårlig";
+
+/* No comment provided by engineer. */
+"Please, re-connect your headphones." = "Tilslut venligst dine hovedtelefoner igen.";
+
+/* No comment provided by engineer. */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+
+/* No comment provided by engineer. */
+"Posture Pal\nPro" = "Posture Pal\nPro";
+
+/* No comment provided by engineer. */
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal hjælper dig med at forbedre din hoved- og nakkestilling med dine AirPods!";
+
+/* No comment provided by engineer. */
+"Posture Tracking Sensitivity" = "Holdningsfølsomhed";
+
+/* No comment provided by engineer. */
+"Privacy Policy" = "Privatlivspolitik";
+
+/* No comment provided by engineer. */
+"Reset" = "Nulstil";
+
+/* No comment provided by engineer. */
+"Restore Purchases" = "Gendan køb";
+
+/* No comment provided by engineer. */
+"SCORE" = "SCORE";
+
+/* No comment provided by engineer. */
+"Sensitivity" = "Følsomhed";
+
+/* No comment provided by engineer. */
+"Sensitivity: %@" = "Følsomhed: %@";
+
+/* No comment provided by engineer. */
+"Session Complete" = "Session fuldført";
+
+/* No comment provided by engineer. */
+"Settings" = "Indstillinger";
+
+/* No comment provided by engineer. */
+"Skip" = "Spring over";
+
+/* No comment provided by engineer. */
+"Sound Alerts Disabled" = "Lydalarmer deaktiveret";
+
+/* No comment provided by engineer. */
+"Sound Alerts Enabled" = "Lydalarmer deaktiveret";
+
+/* No comment provided by engineer. */
+"Sounds" = "Lyde";
+
+/* No comment provided by engineer. */
+"Start Tracking" = "Start Observering";
+
+/* No comment provided by engineer. */
+"Stop Tracking" = "Stop Observering";
+
+/* No comment provided by engineer. */
+"Support" = "Support";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "Brugsvilkår";
+
+/* No comment provided by engineer. */
+"Thanks for being a Pro!" = "Tak fordi du er en Pro!";
+
+/* No comment provided by engineer. */
+"Then just %@%.2f per week billed yearly \n%@ per %@" = "Derefter kun %@%.2f per uge faktureret årligt \n%@ per %@";
+
+/* No comment provided by engineer. */
+"Unlock for %@" = "Lås op for %@";
+
+/* No comment provided by engineer. */
+"Update now" = "Opdater nu";
+
+/* No comment provided by engineer. */
+"Vibration Alerts Disabled" = "Vibrationsalarmer deaktiveret";
+
+/* No comment provided by engineer. */
+"Vibration Alerts Enabled" = "Vibrationsalarmer aktiveret";
+
+/* No comment provided by engineer. */
+"Vibrations" = "Vibrationer";
+
+/* No comment provided by engineer. */
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Du skal bruge AirPods (3. generation), AirPods Pro, AirPods Max eller Beats Fit Pro for at spore din kropsholdning.";
+
+/* No comment provided by engineer. */
+"Your good and bad posture seconds" = "Sekunder du har haft god og dårlig holding";
+
+/* No comment provided by engineer. */
+"Your headphones don't support posture tracking" = "Dine hovedtelefoner understøtter ikke holdningssporing";
+
+
+/* ANGLES */
+"Low" = "Lav";
+"Medium" = "Medium";
+"High" = "Høj";
+
+/* PURCHASES */
+"Unlimited Posture Sessions" = "Ubegrænset Holdnings Sessioner";
+"Custom Sensitivity" = "Brugerdefineret Følsomhed";
+"Custom Colors" = "Brugerdefinerede Farver";
+"Extra App Icons" = "Ekstra App-ikoner";
+
+/* Onboarding */
+/* Titles based on current permission status */
+
+"Motion Data" = "Motion Data";
+"Motion Restricted" = "Motion Restricted";
+"Permission Denied" = "Permission Denied";
+"Ready to Go!" = "Ready to Go!";
+
+/* Subtitles based on current permission status */
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal tracks your posture by using your AirPods.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Motion Data usage is restricted for this device. You can change this in settings.";
+"Motion Data permission was denied. You can change this in settings." = "Motion Data permission was denied. You can change this in settings.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal can use your AirPods to track your posture.";
+
+"Request" = "Request";
+"Open Settings" = "Open Settings";
+"Continue" = "Continue";

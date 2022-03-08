@@ -2,27 +2,26 @@
   Localizable.strings
   Posture Pal
 
-  Created by Michael Klug on 06/03/2022.
-  
-*/
+Created by Florian Schweizer on 06/03/2022.
 
 /* No comment provided by engineer. */
-"10 minute time limit reached" = "10-Minuten-Zeitlimit erreicht";
+
+"10 minute time limit reached" = "10 Minuten Zeitlimit erreicht";
 
 /* No comment provided by engineer. */
-"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Stellen Sie ein, wie schlecht Ihre Körperhaltung sein muss, bevor Posture Pal Sie warnt";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Stelle ein, wie schlecht deine Haltung sein muss, bevor dich Posture Pal warnt.";
 
 /* No comment provided by engineer. */
-"App Icons" = "App-Symbole";
+"App Icons" = "App Icons";
 
 /* No comment provided by engineer. */
-"Authorization status is denied" = "Der Autorisierungsstatus ist verweigert";
+"Authorization status is denied" = "Authorisierungsstatus ist abgelehnt";
 
 /* No comment provided by engineer. */
-"Authorization status is restricted" = "Der Autorisierungsstatus ist eingeschränkt";
+"Authorization status is restricted" = "Authorisierungsstatus ist beschränkt";
 
 /* No comment provided by engineer. */
-"Authorization status is unknown" = "Der Autorisierungsstatus ist unbekannt";
+"Authorization status is unknown" = "Authorisierungsstatus ist unbekannt";
 
 /* No comment provided by engineer. */
 "Back" = "Zurück";
@@ -31,58 +30,58 @@
 "Bad" = "Schlecht";
 
 /* No comment provided by engineer. */
-"Colors will reset on relaunch" = "Farben werden beim Neustart zurückgesetzt";
+"Colors will reset on relaunch" = "Farben setzen sich beim Neustart zurück";
 
 /* No comment provided by engineer. */
-"Connect supported AirPods to track your posture" = "Verbinden Sie unterstützte AirPods, um Ihre Körperhaltung zu verfolgen";
+"Connect supported AirPods to track your posture" = "Verbinde unterstützte AirPods, um deine Haltung zu überwachen";
 
 /* No comment provided by engineer. */
-"Custom Angle %@" = "benutzerdefinierter Winkel %@";
+"Device motion is active" = "Bewegungssensor ist aktiv";
 
 /* No comment provided by engineer. */
-"Device motion is active" = "Gerätebewegung ist aktiv";
+"Device motion is already active." = "Bewegungssensor ist bereits aktiv.";
 
 /* No comment provided by engineer. */
-"Device motion is already active." = "Gerätebewegung ist bereits aktiv.";
+"Custom Angle %@" = "Benutzerdefinierter Winkel %@";
 
 /* No comment provided by engineer. */
-"Dismiss" = "Verwerfen";
+"Dismiss" = "Schließen";
 
 /* No comment provided by engineer. */
-"Get Started" = "Loslegen";
+/* No comment provided by engineer. */
+"Get Started" = "Los gehts";
 
 /* No comment provided by engineer. */
-"Go Pro" = "Gehen Sie Pro";
+"Go Pro" = "Hol dir Pro";
 
 /* No comment provided by engineer. */
 "Good" = "Gut";
 
 /* No comment provided by engineer. */
-"Great" = "Großartig";
+"Great" = "Super";
 
 /* No comment provided by engineer. */
-"Loading" = "Lädt";
+"Make your phone vibrate whenever your posture is bad." = "Lass dein Handy vibrieren, wenn deine Haltung schlecht ist.";
 
 /* No comment provided by engineer. */
-"Make your phone vibrate whenever your posture is bad." = "Lassen Sie Ihr Telefon vibrieren, wenn Ihre Körperhaltung schlecht ist.";
+"No pages for this support item" = "Keine Seite für diesen Hilfe-Eintrag";
 
 /* No comment provided by engineer. */
-"More info" = "Mehr Info";
+"Loading" = "Laden";
 
 /* No comment provided by engineer. */
-"No pages for this support item" = "Keine Seiten für dieses Support-Artikel";
+"More info" = "Mehr info";
 
 /* No comment provided by engineer. */
-"No permission" = "Keine Berechtigung";
+"No permission" = "Keine Erlaubnis";
 
-/* No comment provided by engineer. */
 "OK" = "OK";
 
 /* No comment provided by engineer. */
-"Play a subtle sound through your AirPods whenever your posture is bad" = "Spielen Sie einen subtilen Ton durch Ihre AirPods, wenn Ihre Körperhaltung schlecht ist";
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Spiele einen sanften Ton über deine Kopfhörer sobald du eine schlechte Haltung hast";
 
 /* No comment provided by engineer. */
-"Please, re-connect your headphones." = "Bitte schließen Sie Ihre Kopfhörer erneut an.";
+"Please, re-connect your headphones." = "Verbinde bitte deine Kopfhörer nochmal.";
 
 /* No comment provided by engineer. */
 "Posture\nPal Pro" = "Posture\nPal Pro";
@@ -91,13 +90,12 @@
 "Posture Pal\nPro" = "Posture Pal\nPro";
 
 /* No comment provided by engineer. */
-"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal hilft Ihnen, Ihre Kopf- und Nackenhaltung mit Ihren AirPods zu verbessern!";
+"Posture Tracking Sensitivity" = "Haltungs-Überwachungs Sensitivität";
 
 /* No comment provided by engineer. */
-"Posture Tracking Sensitivity" = "Empfindlichkeit der Körperhaltungs-Verfolgungs";
+"Privacy Policy" = "Datenschutzerklärung";
 
-/* No comment provided by engineer. */
-"Privacy Policy" = "Datenschutz-Bestimmungen";
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal hilft dir deine Kopf- und Nackenhaltung mit deinen AirPods zu verbessern!";
 
 /* No comment provided by engineer. */
 "Reset" = "Zurücksetzen";
@@ -109,13 +107,13 @@
 "SCORE" = "ERGEBNIS";
 
 /* No comment provided by engineer. */
-"Sensitivity" = "Empfindlichkeit";
-
-/* No comment provided by engineer. */
-"Sensitivity: %@" = "Empfindlichkeit: %@";
-
-/* No comment provided by engineer. */
 "Session Complete" = "Sitzung abgeschlossen";
+
+/* No comment provided by engineer. */
+"Sensitivity" = "Sensitivität";
+
+/* No comment provided by engineer. */
+"Sensitivity: %@" = "Sensitivität: %@";
 
 /* No comment provided by engineer. */
 "Settings" = "Einstellungen";
@@ -130,37 +128,38 @@
 "Sound Alerts Enabled" = "Tonwarnungen aktiviert";
 
 /* No comment provided by engineer. */
+"Start Tracking" = "Überwachung starten";
+
+/* No comment provided by engineer. */
+"Stop Tracking" = "Überwachung stoppen";
+
+/* No comment provided by engineer. */
+"Support" = "Hilfe";
+
+/* No comment provided by engineer. */
+"Terms of Use" = "AGB";
+
+/* No comment provided by engineer. */
+"Then just %@%.2f per week billed yearly \n%@ per %@" = "Dann nur %@%.2f pro Woche, jährlich abgebucht \n%@ pro %@";
+
+/* No comment provided by engineer. */
+"Unlock for %@" = "Für %@ freischalten";
+
+/* No comment provided by engineer. */
 "Sounds" = "Töne";
 
 /* No comment provided by engineer. */
-"Start Tracking" = "Verfolgung starten";
+"Thanks for being a Pro!" = "Danke, dass du ein Pro bist!";
 
 /* No comment provided by engineer. */
-"Stop Tracking" = "Verfolgung stoppen";
+"Update now" = "Jetzt updaten";
 
 /* No comment provided by engineer. */
-"Support" = "Support";
+
+"Vibration Alerts Disabled" = "Vibrationswarnungen deaktiviert";
 
 /* No comment provided by engineer. */
-"Terms of Use" = "Nutzungsbedingungen";
-
-/* No comment provided by engineer. */
-"Thanks for being a Pro!" = "Danke, dass Sie Pro sind!";
-
-/* No comment provided by engineer. */
-"Then just %@%.2f per week billed yearly \n%@ per %@" = "Danach nur %@%.2f pro Woche, abgerechnet jährlich \n%@ pro %@";
-
-/* No comment provided by engineer. */
-"Unlock for %@" = "Freischalten für %@";
-
-/* No comment provided by engineer. */
-"Update now" = "Jetzt aktualisieren";
-
-/* No comment provided by engineer. */
-"Vibration Alerts Disabled" = "Vibrationsalarme deaktiviert;
-
-/* No comment provided by engineer. */
-"Vibration Alerts Enabled" = "Vibrationsalarme aktiviert";
+"Vibration Alerts Enabled" = "Vibrationswarnungen aktiviert";
 
 /* No comment provided by engineer. */
 "Vibrations" = "Vibrationen";
@@ -174,14 +173,36 @@
 /* No comment provided by engineer. */
 "Your headphones don't support posture tracking" = "Ihre Kopfhörer unterstützen keine Haltungsverfolgung";
 
-
-/* ANGLES */
-"Low" = "Klein";
-"Medium" = "Mittel";
-"High" = "Groß";
-
 /* PURCHASES */
 "Unlimited Posture Sessions" = "Unbegrenzte Haltungssitzungen";
 "Custom Sensitivity" = "Benutzerdefinierte Empfindlichkeit";
 "Custom Colors" = "Benutzerdefinierte Farben";
-"Extra App Icons" = "Extra App-Symbole";
+
+/* ANGLES */
+"Low" = "Niedrig";
+"Medium" = "Mittel";
+"High" = "Hoch";
+
+/* PURCHASES */
+"Unlimited Posture Sessions" = "Unbegrenzte Haltungs-Sitzungen";
+"Custom Sensitivity" = "Benutzerdefinierte Sensitivität";
+"Custom Colors" = "Benutzerdefinierte Farben";
+"Extra App Icons" = "Extra App Icons";
+
+/* Onboarding */
+/* Titles based on current permission status */
+
+"Motion Data" = "Bewegungsdaten";
+"Motion Restricted" = "Bewegungsdaten sind eingeschränkt";
+"Permission Denied" = "Berechtigung nicht erteilt";
+"Ready to Go!" = "Los Geht's!";
+
+/* Subtitles based on current permission status */
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal misst deine Haltung mithilfe deiner AirPods.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Bewegungsdaten-Berechtigung ist eingeschränkt für diese Gerät. Du kannst dies in den Einstellungen ändern.";
+"Motion Data permission was denied. You can change this in settings." = "Bewegungsdaten-Berechtigung wurde nicht erteilt. Du kannst dies in den Einstellungen ändern.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal kann deine AirPods verwenden, um deine Haltung zu überwachen.";
+
+"Request" = "Anfrage";
+"Open Settings" = "Einstellungen öffnen";
+"Continue" = "Weiter";
