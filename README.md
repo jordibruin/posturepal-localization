@@ -30,6 +30,8 @@ You will receive a promo code to unlock Posture Pal Pro for free. It should take
 | 🇰🇷 Korean      | James Ryu   | [Twitter](https://twitter.com/jrswiftjourney)     | ⚾️
 | 🇫🇷 French      | Benjamin THOMAS   | [Twitter](https://twitter.com/tho_benjamin)     | ❤️
 | 🇨🇳 Simplified Chinese      | Tianhui Xu   | [Twitter](https://twitter.com/xu_tianhuihui)     | 🎋
+| 🇩🇪 German             | Michael Klug  | [Twitter](https://www.twitter.com/mmklug)         | 
+| 🇧🇷 Portuguese(Brazil) | Michael Klug  | [Twitter](https://www.twitter.com/mmklug)         | 
 
 In progress:
 Polish
