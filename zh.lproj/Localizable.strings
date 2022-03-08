@@ -1,0 +1,109 @@
+/* 
+  Localizable.strings
+  Posture Pal
+
+  Created by Tianhui Xu on 08/03/2022.
+  
+*/
+
+
+/* Generic words */
+"Dismiss" = "关闭";
+"Loading" = "加载中";
+"More info" = "更多信息";
+"OK" = "好";
+"Privacy Policy" = "隐私条款";
+"Reset" = "重置";
+"Restore Purchases" = "恢复已购买项";
+"SCORE" = "分数";
+"Back" = "返回";
+"Get Started" = "开始使用";
+"Support" = "帮助";
+
+
+/* The different types of posture qualities. These will be shown on the session complete screen below a number of seconds */
+"Bad" = "不良";
+"Good" = "良好";
+"Great" = "极佳";
+
+
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal通过Airpods帮助您改善颈部和头部体态！";
+"Posture Tracking Sensitivity" = "体态监测灵敏度";
+
+
+"10 minute time limit reached" = "已达到十分钟上限";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "调整触发Posture Pal提示您体态不良的最低程度";
+
+/* shown when user presses the live updating bar */
+"Your good and bad posture seconds" = "您体态良好和不好的秒数";
+
+
+/* Permissions */
+"No permission" = "无权限";
+"Authorization status is denied" = "授权被拒绝";
+"Authorization status is restricted" = "授权状态被限制";
+"Authorization status is unknown" = "授权状态未知";
+"Device motion is active" = "装置动作已启用";
+"Device motion is already active." = "装置动作已启用。";
+
+"Connect supported AirPods to track your posture" = "连接支持的AirPods以监测您的体态";
+"Your headphones don't support posture tracking" = "您的耳机不支持体态监测";
+"Please, re-connect your headphones." = "请重新连接耳机。";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "请使用 AirPods (第三代), AirPods Pro, AirPods Max 或 Beats Fit Pro 进行体态监测。";
+
+
+/* Shown on the colors screen to prompt users to upgrade */
+"Colors will reset on relaunch" = "重新启动会重置色彩";
+"Go Pro" = "升级为Pro";
+
+
+/* Posture Pal Pro screen */
+/* No need to change this */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+"Posture Pal\nPro" = "Posture Pal\nPro";
+"App Icons" = "App图标";
+"Unlimited Posture Sessions" = "不限监测周期次数";
+"Custom Sensitivity" = "自定义敏感度";
+"Custom Colors" = "自定义颜色";
+"Extra App Icons" = "更多应用图标";
+"Unlock for %@" = "为%@解锁";
+"Terms of Use" = "使用条款";
+"Thanks for being a Pro!" = "谢谢您成为Pro！";
+
+
+
+/* Notifications */
+"Make your phone vibrate whenever your posture is bad." = "让手机在您姿体态不良时震动";
+"No pages for this support item" = "没有关于本支持项的页面";
+"Play a subtle sound through your AirPods whenever your posture is bad" = "让AirPods在您体态不良时播放声音";
+
+
+/* Sensitivity */
+"Sensitivity" = "灵敏度";
+"Sensitivity: %@" = "灵敏度： %@";
+"Custom Angle %@" = "自定义角度%@";
+"Session Complete" = "周期完成";
+"Settings" = "设置";
+"Skip" = "跳过";
+
+
+"Sounds" = "声音";
+"Sound Alerts Disabled" = "声音提示已停用";
+"Sound Alerts Enabled" = "声音提示已启用";
+
+
+"Vibrations" = "震动";
+"Vibration Alerts Disabled" = "震动提示已停用";
+"Vibration Alerts Enabled" = "震动提示已启用";
+
+
+"Start Tracking" = "开始监测";
+"Stop Tracking" = "停止监测";
+
+"Update now" = "立即更新";
+
+
+/* The built in angles, low medium and high settings */
+"Low" = "低";
+"Medium" = "中";
+"High" = "高";
