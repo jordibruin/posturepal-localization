@@ -1,0 +1,114 @@
+/* 
+  Localizable.strings
+  Posture Pal
+
+  Created by Jordi Bruin on 05/03/2022.
+  
+*/
+
+/* Generic words */
+"Dismiss" = "Bỏ";
+"Loading" = "Đang tải";
+"More info" = "Thêm thông tin";
+"OK" = "OK";
+"Privacy Policy" = "Chính sách Quyền riêng tư";
+"Reset" = "Khôi phục lại";
+"Restore Purchases" = "Khôi phục Giao dịch";
+"SCORE" = "ĐIỂM";
+"Back" = "Trở về";
+"Get Started" = "Bắt Đầu";
+"Support" = "Hỗ trợ";
+
+/* The different types of posture qualities. These will be shown on the session complete screen below a number of seconds */
+"Bad" = "Xấu";
+"Good" = "Tốt";
+"Great" = "Tuyệt vời";
+
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal giúp bạn cải thiện tư thế đầu và cổ với AirPods!";
+"Posture Tracking Sensitivity" = "Độ nhạy Tính năng Theo dõi Tư thế";
+
+"10 minute time limit reached" = "Giới hạn 10 phút đã hết";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Điều chỉnh độ sai tư thế trước khi Posture Pal cảnh báo cho bạn";
+
+/* shown when user presses the live updating bar */
+"Your good and bad posture seconds" = "Thời gian bằng giây của tư thế tốt/xấu";
+
+/* Permissions */
+"No permission" = "Không có quyền";
+"Authorization status is denied" = "Quyền truy cập bị từ chối";
+"Authorization status is restricted" = "Quyền truy cập bị giới hạ";
+"Authorization status is unknown" = "Không rõ quyền truy cập";
+"Device motion is active" = "Chuyển động của thiết bị đang hoạt động";
+"Device motion is already active." = "Chuyển động của thiết bị đã hoạt động rồi.";
+
+"Connect supported AirPods to track your posture" = "Hãy kết nối AirPods được hỗ trợ để theo dõi tư thế của bạn";
+"Your headphones don't support posture tracking" = "Tai nghe của bạn không hỗ trợ theo dõi tư thế";
+"Please, re-connect your headphones." = "Vui lòng kết nối lại tai nghe của bạn.";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Bạn cần AirPods (thế hệ thứ 3), AirPods Pro, AirPods Max hoặc Beats Fit Pro để theo dõi tư thế.";
+
+
+/* Shown on the colors screen to prompt users to upgrade */
+"Colors will reset on relaunch" = "Màu sắc sẽ trở về mặc định khi mở lại app";
+"Go Pro" = "Lên bản Pro";
+
+/* Posture Pal Pro screen */
+/* No need to change this */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+"Posture Pal\nPro" = "Posture Pal\nPro";
+"App Icons" = "Icon Ứng dụng";
+"Unlimited Posture Sessions" = "Phiên theo dõi Tư thế Không giới hạn";
+"Custom Sensitivity" = "Tuỳ chỉnh Độ nhạy";
+"Custom Colors" = "Tuỳ chỉnh Màu sắc";
+"Extra App Icons" = "Thêm Icon Ứng dụng";
+"Unlock for %@" = "Mở khoá tính năng %@";
+"Terms of Use" = "Quy định Sử dụng";
+"Thanks for being a Pro!" = "Cảm ơn bạn đã trở thành người dùng Pro!";
+
+/* Notifications */
+"Make your phone vibrate whenever your posture is bad." = "Rung điện thoại cho mỗi tư thế xấu.";
+"No pages for this support item" = "Không có trang cho vật này";
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Thông báo bằng âm thanh nhỏ cho mỗi tư thế xấu";
+
+/* Sensitivity */
+"Sensitivity" = "Độ nhạy";
+"Sensitivity: %@" = "Độ nhạy: %@";
+"Custom Angle %@" = "Tuỳ chỉnh Góc %@";
+"Session Complete" = "Hoàn tất Phiên";
+"Settings" = "Cài đặt";
+"Skip" = "Bỏ";
+
+"Sounds" = "Âm thanh";
+"Sound Alerts Disabled" = "Đã tắt Thông báo Âm thanh";
+"Sound Alerts Enabled" = "Đã bật Thông báo Âm thanh";
+
+"Vibrations" = "Rung";
+"Vibration Alerts Disabled" = "Đã tắt Thông báo Rung";
+"Vibration Alerts Enabled" = "Đã bật Thông báo Rung";
+
+"Start Tracking" = "Bắt đầu Theo dõi";
+"Stop Tracking" = "Ngừng Theo dõi";
+
+"Update now" = "Nâng cấp ngay";
+
+/* The built in angles, low medium and high settings */
+"Low" = "Thấp";
+"Medium" = "Trung bình";
+"High" = "Cao";
+
+/* Onboarding */
+/* Titles based on current permission status */
+
+"Motion Data" = "Dữ liệu Chuyển động";
+"Motion Restricted" = "Đã Giới hạn Chuyển động";
+"Permission Denied" = "Quyền truy cập bị từ chối";
+"Ready to Go!" = "Sẵn sàng thôi!";
+
+/* Subtitles based on current permission status */
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal theo dõi tư thế của bạn bằng AirPods.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Truy cập Dữ liệu Chuyển động đã bị giới hạn. Bạn có thể chỉnh lại trong phần cài đặt.";
+"Motion Data permission was denied. You can change this in settings." = "Truy cập Dữ liệu Chuyển động đã bị từ chối. Bạn có thể chỉnh lại trong phần cài đặt.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal có thể dùng AirPods để theo dõi tư thế của bạn.";
+
+"Request" = "Yêu cầu";
+"Open Settings" = "Mở Cài đặt";
+"Continue" = "Tiếp tục";
