@@ -1,8 +1,8 @@
 /* App Store Title */
-"Posture Pal - Improve Stance" = "Posture Pal - Improve Stance";
+"Posture Pal - Improve Stance" = "Posture Pal - Tartásod javítása";
 
 /* App Store Subtitle */
-"Straight Back, Neck & Shoulder" = "Straight Back, Neck & Shoulder";
+"Straight Back, Neck & Shoulder" = "Egyenes hát, nyak és vállak";
 
 /* App Store Description */
 "Posture Pal helps you improve your neck and shoulder posture by using the motion sensors in your headphones. Improve your neck, shoulder and back posture without having to purchase a separate tracking device. Just use your AirPods*.
@@ -25,23 +25,26 @@ Features:
 
 = 
 
-"Posture Pal helps you improve your neck and shoulder posture by using the motion sensors in your headphones. Improve your neck, shoulder and back posture without having to purchase a separate tracking device. Just use your AirPods*.
+"Posture Pal segít a tartásod javításában a fejhallgatódban lévő mozgásérzékelőkkel. Fejlessze a nyaka, háta, és válla tartását külön mozgásérzékelő vásárlása nélkül, csak az AirPodsoddal*.
 
-Start a Posture Session and Posture Pal will keep track if your neck tilt and will alert you in the background.
+Posture Pal helps you improve your neck and shoulder posture by using the motion sensors in your headphones. Improve your neck, shoulder and back posture without having to purchase a separate tracking device. Just use your AirPods*.
 
-Features:
-- Visual alerts when bad posture is detected
-- Phone vibration alerts when bad posture is detected
-- Sound alerts when bad posture is detected
-- Works in the background
-- Works while other sound is playing
-- Three different sensitivity levels
-- Custom colors and theming*
-- Custom sensitivity*
-- 12 different app icons*
+Tartás figyelés indításakor Posture Pal a nyak tartását figyeli, értesítést küld, ha a tartásod rossz.
 
-* Posture Pal supports AirPods (3rd Generation), AirPods Pro, AirPods Max and Beats Fit Pro. Other headphones that can send motion data to your iPhone can also work.
-** Posture Pal Pro required"
+Funkciók:
+- Vizuális jelzések helytelen tartásnál
+- Rezgéses jelzések helytelen tartásnál
+- Hang jelzéses helytelen tartásnál
+- A háttérben is működik
+- Zenehallgatás közben is működik
+- Három szenzitivitás
+- Saját színek és témák*
+- Saját szenzitivitás*
+- 12 különböző app ikon*
+
+* Posture Pal kompatibilis AirPods (3. Generáció), AirPods Pro, AirPods Max és Beats Fit Pro eszközökkel. Más fejhallgatók is működhetnek, ha mozgásadatokat küldenek a telefonnak.
+
+** Posture Pal Pro szükséges"
 
 /* App Store Keywords */
-"upright,neck,shoulder,back,stable,office,work,desk,stance,go,lumo,lift,active,straight,sit,airpods" = "upright,neck,shoulder,back,stable,office,work,desk,stance,go,lumo,lift,active,straight,sit,airpods";
+"upright,nyak,shoulder,back,stable,office,work,desk,stance,go,lumo,lift,active,straight,sit,airpods" = "függőleges,nyak,váll,hát,stabil,iroda,munka,asztal,tartás,go,lumo,lift,aktív,egyenes,ülés,airpods";

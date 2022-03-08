@@ -172,7 +172,7 @@
 "Your good and bad posture seconds" = "Jó és rossz tartási érzékelései";
 
 /* No comment provided by engineer. */
-"Your headphones don't support posture tracking" = "A fejhalgatója nem támogatja a tartás érzékelést";
+"Your headphones don't support posture tracking" = "A fejhallgatója nem támogatja a tartás érzékelést";
 
 
 /* ANGLES */
@@ -190,17 +190,17 @@
 /* Onboarding */
 /* Titles based on current permission status */
 
-"Motion Data" = "Motion Data";
-"Motion Restricted" = "Motion Restricted";
-"Permission Denied" = "Permission Denied";
-"Ready to Go!" = "Ready to Go!";
+"Motion Data" = "Mozgási adatok";
+"Motion Restricted" = "Mozgás korlátozva";
+"Permission Denied" = "Engedély megtagadva";
+"Ready to Go!" = "Készen áll!";
 
 /* Subtitles based on current permission status */
-"Posture Pal tracks your posture by using your AirPods." = "Posture Pal tracks your posture by using your AirPods.";
-"Motion Data usage is restricted for this device. You can change this in settings." = "Motion Data usage is restricted for this device. You can change this in settings.";
-"Motion Data permission was denied. You can change this in settings." = "Motion Data permission was denied. You can change this in settings.";
-"Posture Pal can use your AirPods to track your posture." = "Posture Pal can use your AirPods to track your posture.";
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal követi a tartásodat a AirPodsod használatával.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "A mozgási adatok használata korlátozva vannak ezen a készüléken. Ezt a beállításokban kezelheted.";
+"Motion Data permission was denied. You can change this in settings." = "A mozgási adatok használata megtagadva. Ezt a beállításokban kezelheted.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal az AirPodsodat használva követi a tartásodat.";
 
-"Request" = "Request";
-"Open Settings" = "Open Settings";
-"Continue" = "Continue";
+"Request" = "Kérés";
+"Open Settings" = "Beállítások megnyitása";
+"Continue" = "Folytatás";
