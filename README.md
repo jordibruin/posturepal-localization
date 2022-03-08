@@ -33,13 +33,13 @@ You will receive a promo code to unlock Posture Pal Pro for free. It should take
 | 🇩🇪 German             | Michael Klug  | [Twitter](https://www.twitter.com/mmklug)         | 
 | 🇧🇷 Portuguese(Brazil) | Michael Klug  | [Twitter](https://www.twitter.com/mmklug)         | 
 | 🇻🇳 Vietnamese | Joe Pham  | [Twitter](https://www.twitter.com/rungxanh1995)         | 💪🏻
+| 🇿🇦 Afrikaans | Helen van der Merwe  | [Twitter](https://www.twitter.com/thehell_cat)         |😼🏻
 
 
 
 In progress
 | Language      |
 | ------------- |
-| Afrikaans
 | Indonesian
 | Arabic
 | Hebrew
