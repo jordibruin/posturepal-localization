@@ -1,0 +1,117 @@
+/*
+  Localizable.strings
+  Posture Pal
+
+  Created by Jordi Bruin on 05/03/2022.
+  
+*/
+
+/* Generic words */
+"Dismiss" = "Отхвърляне";
+"Loading" = "Зареждане";
+"More info" = "Повече информация";
+"OK" = "OK";
+"Privacy Policy" = "Политика за поверителност";
+"Reset" = "Рестартиране";
+"Restore Purchases" = "Възстановяване на покупките";
+"SCORE" = "РЕЗУЛТАТ";
+"Back" = "Назад";
+"Get Started" = "Започни";
+"Support" = "Поддръжка";
+
+/* The different types of posture qualities. These will be shown on the session complete screen below a number of seconds */
+"Bad" = "Лошо";
+"Good" = "Добре";
+"Great" = "Чудесно";
+
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal помогага да пособриш стойката на главата и врата си с помощта на AirPods!";
+"Posture Tracking Sensitivity" = "Чувствителност на Проследяването на Стойката";
+
+"10 minute time limit reached" = "10-минутният лимит е стигнат";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Нагласи колко лоша трябва да е стойката ти преди Posture Pal ти сигнализира";
+
+/* shown when user presses the live updating bar */
+"Your good and bad posture seconds" = "Твоите секунди на добра и лоша стойка";
+
+/* Permissions */
+"No permission" = "Няма разрешения";
+"Authorization status is denied" = "Разрешаването е отказано";
+"Authorization status is restricted" = "Разрешаването е ограничено";
+"Authorization status is unknown" = "Разрешаването е неизвестно";
+"Device motion is active" = "Движението на устройството е активно";
+"Device motion is already active." = "Движението на устройството вече е активно.";
+
+"Connect supported AirPods to track your posture" = "Свържете поддържаните AirPods, за да следите стойката си";
+"Your headphones don't support posture tracking" = "Вашите слушалки не поддържат проследяване на позата";
+"Please, re-connect your headphones." = "Моля, свържете слушалките си отново.";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Нуждаете се от AirPods (трета генерация), AirPods Pro, AirPods Max or Beats Fit Pro, за да следите стойката си.";
+
+
+/* Shown on the colors screen to prompt users to upgrade */
+"Colors will reset on relaunch" = "Цветовете ще се рестартират при рестартиране";
+"Go Pro" = "Купи Pro Версия";
+
+/* Posture Pal Pro screen */
+/* No need to change this */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+"Posture Pal\nPro" = "Posture Pal\nPro";
+"App Icons" = "Икони на приложениято";
+"Unlimited Posture Sessions" = "Неограничена Posture Сесия";
+"Custom Sensitivity" = "Персонализиране на Чувствителността";
+"Custom Colors" = "Персонализирани Цветове";
+"Extra App Icons" = "Допълнителни Икони за Приложението";
+"Unlock for %@" = "Отключи за %@";
+"Terms of Use" = "Условия за ползване";
+"Thanks for being a Pro!" = "Благодаря, че си Pro!";
+
+/* Notifications */
+"Make your phone vibrate whenever your posture is bad." = "Накарай телефона си да вибрира, когато стойката ти е лоша.";
+"No pages for this support item" = "Няма страници за този елемент";
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Чуй тих звук през своите AirPods, когато стойката ти е лоша.";
+
+/* Sensitivity */
+"Sensitivity" = "Чувствителност";
+"Sensitivity: %@" = "Чувствителност: %@";
+"Custom Angle %@" = "Персонализиран Ъгъл %@";
+"Session Complete" = "Сесията Завършена";
+"Settings" = "Настройки";
+"Skip" = "Пропусни";
+
+"Sounds" = "Звуци";
+"Sound Alerts Disabled" = "Звукови Сигнали Забранени";
+"Sound Alerts Enabled" = "Звукови Сигнали Разрешени";
+
+"Vibrations" = "Вибрации";
+"Vibration Alerts Disabled" = "Вибриращи Сигнали Забранени";
+"Vibration Alerts Enabled" = "Вибриращи Сигнали Разрешени";
+
+"Start Tracking" = "Започни Проследяване";
+"Stop Tracking" = "Спри Проследяване";
+
+"Update now" = "Обнови сега";
+
+/* The built in angles, low medium and high settings */
+"Low" = "Ниска";
+"Medium" = "Средна";
+"High" = "Висока";
+
+
+/* Onboarding */
+/* Titles based on current permission status */
+
+"Motion Data" = "Данни за Движение";
+"Motion Restricted" = "Движение Ограничено";
+"Permission Denied" = "Разрешението е Отказано";
+"Ready to Go!" = "Готово!";
+
+/* Subtitles based on current permission status */
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal следи стойката ти чрез твоите AirPods.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Данните за движение са ограничени. Можеш да го промениш от настройките.";
+"Motion Data permission was denied. You can change this in settings." = "Разрешението за данните от движение бе отказано. Можеш да го промениш от настройките.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal може да използва твоите AirPods да следи стойката ти.";
+
+"Request" = "Искане";
+"Open Settings" = "Отвори Настройките";
+"Continue" = "Продължи";
+
+"Super Serious Mode" = "Супер сериозен режим";

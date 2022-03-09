@@ -107,3 +107,24 @@
 "Low" = "低";
 "Medium" = "中";
 "High" = "高";
+
+
+/* Onboarding */
+/* Titles based on current permission status */
+
+"Motion Data" = "运动数据";
+"Motion Restricted" = "运动受限";
+"Permission Denied" = "权限被拒绝";
+"Ready to Go!" = "准备好了！";
+
+/* Subtitles based on current permission status */
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal 使用您的 AirPods 跟踪您的姿势。";
+"Motion Data usage is restricted for this device. You can change this in settings." = "此设备的运动数据使用受到限制。您可以在设置中更改此设置。";
+"Motion Data permission was denied. You can change this in settings." = "运动数据权限被拒绝。您可以在设置中更改。";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal 可以使用你的 AirPods 来追踪你的姿势。";
+
+"Request" = "请求";
+"Open Settings" = "打开设置";
+"Continue" = "继续";
+
+"Super Serious Mode" = "超级严肃模式";
