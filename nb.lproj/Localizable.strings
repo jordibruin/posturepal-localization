@@ -1,0 +1,116 @@
+/* 
+  Localizable.strings
+  Posture Pal
+
+  Created by Jordi Bruin on 05/03/2022.
+  
+*/
+
+/* Generic words */
+"Dismiss" = "Avvis";
+"Loading" = "Laster";
+"More info" = "Mer info";
+"OK" = "OK";
+"Personvernpolicy" = "Personvernpolicy";
+"Tilbakestill" = "Tilbakestill";
+"Restore Purchases" = "Gjenopprett kjøp";
+"SCORE" = "SCORE";
+"Back" = "Tilbake";
+"Get Started" = "Kom i gang";
+"Support" = "Støtte";
+
+/* The different types of posture qualities. These will be shown on the session complete screen below a number of seconds */
+"Bad" = "Dårlig";
+"Good" = "Bra";
+"Great" = "Flott";
+
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal hjelper deg å forbedre hode- og nakkestillingen med AirPods!";
+"Posture Tracking Sensitivity" = "Posture Tracking Sensitivity";
+
+"10 minute time limit reached" = "10 minutters tidsgrense nådd";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Juster hvor dårlig holdningen din må være før Posture Pal varsler deg";
+
+/* shown when user presses the live updating bar */
+"Your good and bad posture seconds" = "Dine gode og dårlige holdning sekunder";
+
+/* Permissions */
+"No permission" = "Ingen tillatelse";
+"Authorization status is denied" = "Autorisasjonsstatus er avslått";
+"Authorization status is restricted" = "Autorisasjonsstatus er begrenset";
+"Authorization status is unknown" = "Autorisasjonsstatus er ukjent";
+"Device motion is active" = "Enhetsbevegelse er aktiv";
+"Device motion is already active." = "Enhetsbevegelse er allerede aktiv.";
+
+"Connect supported AirPods to track your posture" = "Koble til støttede AirPods for å spore holdningen din";
+"Your headphones don't support posture tracking" = "Hodetelefonene dine støtter ikke posture tracking";
+"Please, re-connect your headphones." = "Vennligst, koble til hodetelefonene på nytt.";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Du trenger AirPods (3. generasjon), AirPods Pro, AirPods Max eller Beats Fit Pro for å spore holdningen din."";
+
+
+/* Shown on the colors screen to prompt users to upgrade */
+"Colors will reset on relaunch" = "Fargene tilbakestilles ved relansering";
+"Go Pro" = "Go Pro";
+
+/* Posture Pal Pro screen */
+/* No need to change this */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+"Posture Pal\nPro" = "Posture Pal\nPro";
+"App Icons" = "App-ikoner";
+"Unlimited Posture Sessions" = "Ubegrenset Posture Sessions";
+"Custom Sensitivity" = "Egendefinert følsomhet";
+"Custom Colors" = "Egendefinerte farger";
+"Extra App Icons" = "Ekstra appikoner";
+"Unlock for %@" = "Lås opp for %@";
+"Terms of Use" = "Vilkår for bruk";
+"Thanks for being a Pro!" = "Takk for at du er en Pro!";
+
+/* Notifications */
+"Make your phone vibrate whenever your posture is bad." = "Få telefonen til å vibrere når holdningen din er dårlig.";
+"No pages for this support item" = "Ingen sider for dette støtteelementet";
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Spill en subtil lyd gjennom AirPods når holdningen din er dårlig";
+
+/* Sensitivity */
+"Sensitivity" = "Sensitivitet";
+"Sensitivity: %@" = "Sensitivitet: %@";
+"Custom Angle %@" = "Egendefinert vinkel %@";
+"Session Complete" = "Session fullført";
+"Settings" = "Innstillinger";
+"Skip" = "Hopp over";
+
+"Sounds" = "Lyder";
+"Sound Alerts Disabled" = "Lydvarsler deaktivert";
+"Sound Alerts Enabled" = "Lydvarsler aktivert";
+
+"Vibrations" = "Vibrasjoner";
+"Vibration Alerts Disabled" = "Vibrasjonsvarsler deaktivert";
+"Vibration Alerts Enabled" = "Vibrasjonsvarsler aktivert";
+
+"Start Tracking" = "Start sporing";
+"Stop Tracking" = "Stopp sporing";
+
+"Update now" = "Oppdater nå";
+
+/* The built in angles, low medium and high settings */
+"Low" = "Lav";
+"Medium" = "Medium";
+"High" = "Høy";
+
+/* Onboarding */
+/* Titles based on current permission status */
+
+"Motion Data" = "Bevegelsesdata";
+"Motion Restricted" = "Bevegelse begrenset";
+"Permission Denied" = "Tillatelse nektet";
+"Ready to Go!" = "Klar til å gå!";
+
+/* Subtitles based on current permission status */
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal sporer holdningen din ved å bruke AirPods.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Bruk av bevegelsesdata er begrenset for denne enheten. Du kan endre dette i innstillingene.";
+"Motion Data permission was denied. You can change this in settings." = "Motion Data-tillatelse ble nektet. Du kan endre dette i innstillingene.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal kan bruke AirPods til å spore holdningen din.";
+
+"Request" = "Forespørsel";
+"Open Settings" = "Åpne innstillinger";
+"Continue" = "Fortsett";
+
+"Super Serious Mode" = "Super Serious Mode";
