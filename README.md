@@ -37,6 +37,8 @@ You will receive a promo code to unlock Posture Pal Pro for free. It should take
 | 🇧🇬 Bulgarian | Victoria Petrova  | [Twitter](https://www.twitter.com/vicki_petrovaa)| 🥳
 | 🇷🇺 Russian | Mark Muravyev  | [Instagram](https://www.instagram.com/markelodelaura)| ❤️
 | 🇺🇦 Ukranian | Olena Prykhodko  | [Twitter](https://www.twitter.com/helen.prykhodko)| 🇺🇦
+| 🇳🇴 Norwegian | Khoa Pham  | [Twitter](https://www.twitter.com/onmyway133)| 🔥
+
 
 
 
