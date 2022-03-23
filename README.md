@@ -38,6 +38,7 @@ You will receive a promo code to unlock Posture Pal Pro for free. It should take
 | 🇷🇺 Russian | Mark Muravyev  | [Instagram](https://www.instagram.com/markelodelaura)| ❤️
 | 🇺🇦 Ukranian | Olena Prykhodko  | [Twitter](https://www.twitter.com/helen.prykhodko)| 🇺🇦
 | 🇳🇴 Norwegian | Khoa Pham  | [Twitter](https://www.twitter.com/onmyway133)| 🔥
+| 🇩🇰 Danish | Thor Lindberg  | [Twitter](https://twitter.com/thor_lindberg)| 🦢
 
 
 
