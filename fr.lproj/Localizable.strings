@@ -55,14 +55,16 @@
 /* No need to change this */
 "Posture\nPal Pro" = "Posture\nPal Pro";
 "Posture Pal\nPro" = "Posture Pal\nPro";
-"App Icons" = "App Icons";
+
+
+"App Icons" = "Icônes d'application";
 "Unlimited Posture Sessions" = "Unlimited Posture Sessions";
-"Custom Sensitivity" = "Custom Sensitivity";
-"Custom Colors" = "Custom Colors";
-"Extra App Icons" = "Extra App Icons";
-"Unlock for %@" = "Unlock for %@";
-"Terms of Use" = "Terms of Use";
-"Thanks for being a Pro!" = "Thanks for being a Pro!";
+"Custom Sensitivity" = "Sensibilité personnalisée";
+"Custom Colors" = "Couleurs personnalisées";
+"Extra App Icons" = "Icônes d'application supplémentaires";
+"Unlock for %@" = "Déverrouiller pour %@";
+"Terms of Use" = "Conditions d'utilisation";
+"Thanks for being a Pro!" = "Merci d'être un pro!";
 
 /* Notifications */
 "Make your phone vibrate whenever your posture is bad." = "Faites vibrer votre téléphone chaque fois que votre posture est mauvaise.";
@@ -117,3 +119,22 @@
 "Continue" = "Continue";
 
 "Super Serious Mode" = "Mode super sérieux";
+
+"Calibration" = "Calibration";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app."
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
+
+"Alert Delay" = "Alert Delay";
+"How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
+
+"second" = "second";
+"seconds" = "seconds";
+
+"Sound Frequency" = "Sound Frequency";
+"How frequently warning sounds are played" = "How frequently warning sounds are played";
+
+"Review Posture Pal" = "Review Posture Pal";
+"Share Posture Pal" = "Share Posture Pal";
+
+"Start Tracking On Launch" = "Start Tracking On Launch";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";

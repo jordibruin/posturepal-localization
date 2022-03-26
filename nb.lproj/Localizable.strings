@@ -114,3 +114,22 @@
 "Continue" = "Fortsett";
 
 "Super Serious Mode" = "Super Serious Mode";
+
+"Calibration" = "Calibration";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app."
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
+
+"Alert Delay" = "Alert Delay";
+"How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
+
+"second" = "second";
+"seconds" = "seconds";
+
+"Sound Frequency" = "Sound Frequency";
+"How frequently warning sounds are played" = "How frequently warning sounds are played";
+
+"Review Posture Pal" = "Review Posture Pal";
+"Share Posture Pal" = "Share Posture Pal";
+
+"Start Tracking On Launch" = "Start Tracking On Launch";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";
