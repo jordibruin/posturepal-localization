@@ -209,21 +209,21 @@ Created by Florian Schweizer on 06/03/2022.
 
 "Super Serious Mode" = "Super seriöser Modus";
 
-"Calibration" = "Calibration";
-"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app."
-"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
+"Calibration" = "Kalibration";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Setzen Sie sich aufrecht hin und stellen Sie den Kalibrierungswinkel so ein, dass Ihre Körperhaltung korrekt angezeigt wird.";
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "Wenn Sie Ihre Kopfhörer schräg tragen, können Sie die Kalibrierung der Haltungs-Überwachung anpassen.";
 
-"Alert Delay" = "Alert Delay";
-"How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
+"Alert Delay" = "Verspätete Warnung";
+"How many seconds a bad posture must be detected before you get a warning message" = "Wie viele Sekunden muss eine Fehlhaltung erkannt werden, bevor Sie eine Warnmeldung erhalten";
 
-"second" = "second";
-"seconds" = "seconds";
+"%ld second" = "%ld Sekunde";
+"%ld seconds" = "%ld Sekunden";
 
-"Sound Frequency" = "Sound Frequency";
-"How frequently warning sounds are played" = "How frequently warning sounds are played";
+"Sound Frequency" = "Frequenz von Warnungs";
+"How frequently warning sounds are played" = "Wie oft Warntöne abgespielt werden";
 
-"Review Posture Pal" = "Review Posture Pal";
-"Share Posture Pal" = "Share Posture Pal";
+"Review Posture Pal" = "Bewertung Posture Pal";
+"Share Posture Pal" = "Teilen Posture Pal";
 
-"Start Tracking On Launch" = "Start Tracking On Launch";
-"Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";
+"Start Tracking On Launch" = "Überwachung beim öffnen";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Haltungs-Überwachung konnte nicht automatisch gestartet werden, da unterstützte Kopfhörer nicht angeschlossen sind.";
