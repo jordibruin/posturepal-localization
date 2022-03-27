@@ -219,7 +219,7 @@ Created by Florian Schweizer on 06/03/2022.
 "%ld second" = "%ld Sekunde";
 "%ld seconds" = "%ld Sekunden";
 
-"Sound Frequency" = "Frequenz von Warnungs";
+"Sound Frequency" = "Frequenz von Warnungen";
 "How frequently warning sounds are played" = "Wie oft Warntöne abgespielt werden";
 
 "Review Posture Pal" = "Bewertung Posture Pal";
