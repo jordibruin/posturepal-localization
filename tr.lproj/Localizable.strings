@@ -116,14 +116,14 @@
 "Super Serious Mode" = "Süper ciddi mod";
 
 "Calibration" = "Calibration";
-"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app."
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app.";
 "If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
 
 "Alert Delay" = "Alert Delay";
 "How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
 
-"second" = "second";
-"seconds" = "seconds";
+"%ld second" = "%ld second";
+"%ld seconds" = "%ld seconds";
 
 "Sound Frequency" = "Sound Frequency";
 "How frequently warning sounds are played" = "How frequently warning sounds are played";
