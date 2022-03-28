@@ -115,21 +115,21 @@
 
 "Super Serious Mode" = "Chế độ siêu nghiêm túc";
 
-"Calibration" = "Calibration";
-"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app.";
-"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
+"Calibration" = "Tinh chỉnh";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Ngồi thẳng lưng và hiệu chỉnh góc để tư thế của bạn hiển thị được đúng trong app.";
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "Nếu bạn hay đeo tai nghe ở góc nghiêng nhất định, bạn có thể hiệu chỉnh chức năng dò tư thế cho đúng";
 
-"Alert Delay" = "Alert Delay";
-"How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
+"Alert Delay" = "Dời Cảnh báo";
+"How many seconds a bad posture must be detected before you get a warning message" = "Tư thế xấu kéo dài bao nhiêu giây trước khi bạn nhận được âm thanh cảnh báo";
 
-"%ld second" = "%ld second";
-"%ld seconds" = "%ld seconds";
+"%ld second" = "%ld giây";
+"%ld seconds" = "%ld giây";
 
-"Sound Frequency" = "Sound Frequency";
-"How frequently warning sounds are played" = "How frequently warning sounds are played";
+"Sound Frequency" = "Tần suất Âm thanh";
+"How frequently warning sounds are played" = "Chơi âm thanh cảnh báo thường xuyên hay không";
 
-"Review Posture Pal" = "Review Posture Pal";
-"Share Posture Pal" = "Share Posture Pal";
+"Review Posture Pal" = "Đánh giá Posture Pal";
+"Share Posture Pal" = "Chia sẻ Posture Pal";
 
-"Start Tracking On Launch" = "Start Tracking On Launch";
-"Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";
+"Start Tracking On Launch" = "Dò Ngay Khi Mở App";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Không tự động Dò Chuyển động được do không có kết nối với tai nghe tương thích.";
