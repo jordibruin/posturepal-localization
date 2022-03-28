@@ -173,6 +173,7 @@ Created by Florian Schweizer on 06/03/2022.
 /* No comment provided by engineer. */
 "Your headphones don't support posture tracking" = "Deine Kopfhörer unterstützen keine Haltungsüberwachung";
 
+
 /* PURCHASES */
 "Unlimited Posture Sessions" = "Unbegrenzte Haltungssitzungen";
 "Custom Sensitivity" = "Benutzerdefinierte Empfindlichkeit";
@@ -216,6 +217,7 @@ Created by Florian Schweizer on 06/03/2022.
 "Alert Delay" = "Verspätete Warnung";
 "How many seconds a bad posture must be detected before you get a warning message" = "Wie viele Sekunden muss eine Fehlhaltung erkannt werden, bevor du eine Warnmeldung erhältst";
 
+
 "%ld second" = "%ld Sekunde";
 "%ld seconds" = "%ld Sekunden";
 
@@ -227,3 +229,4 @@ Created by Florian Schweizer on 06/03/2022.
 
 "Start Tracking On Launch" = "Überwachung beim öffnen starten";
 "Could not automatically start Posture Tracking because supported headphones are not connected." = "Haltungs-Überwachung konnte nicht automatisch gestartet werden, da unterstützte Kopfhörer nicht verbunden sind.";
+
