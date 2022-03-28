@@ -1,0 +1,137 @@
+/* 
+  Localizable.strings
+  Posture Pal
+
+  Created by Jordi Bruin on 05/03/2022.
+  
+*/
+
+/* Generic words */
+"Dismiss" = "Verwyder";
+"Loading" = "Laai";
+"More info" = "Meer informasie";
+"OK" = "OK";
+"Privacy Policy" = "Privaatheid Beleid";
+"Reset" = "Terug Stel";
+"Restore Purchases" = "Herstel Kope";
+"SCORE" = "TELLING";
+"Back" = "Terug";
+"Get Started" = "Begin";
+"Support" = "Hulp";
+
+/* The different types of posture qualities. These will be shown on the session complete screen below a number of seconds */
+"Bad" = "Sleg";
+"Good" = "Goed";
+"Great" = "Puik";
+
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal help jy jou kop en nek postuur verbeter met jou AirPods!";
+"Posture Tracking Sensitivity" = "Postuurnasporing Sensitiwiteit";
+
+"10 minute time limit reached" = "10 minuut tydlimiet bereik";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Verander hoe sleg jou postuur moet wees voor Posture Pal jou laat weet";
+
+/* shown when user presses the live updating bar */
+"Your good and bad posture seconds" = "Jou goed en sleg postuur se sekondes";
+
+/* Permissions */
+"No permission" = "Geen permissies";
+"Authorization status is denied" = "Magtiging status word geweier";
+"Authorization status is restricted" = "Magtiging status is beperk";
+"Authorization status is unknown" = "Magtiging status is nie bekend nie";
+"Device motion is active" = "Toestel beweging is aktief";
+"Device motion is already active." = "Toestel beweging is reeds aktief.";
+
+"Connect supported AirPods to track your posture" = "Konnekteer ondersteunde AirPods om jou postuur te monitor";
+"Your headphones don't support posture tracking" = "Jou oorfone ondersteun nie postuur nasporing nie";
+"Please, re-connect your headphones." = "Asseblief herkoppel jou oorfone.";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Jy benodig AirPods (3rde generasie), AirPods Pro, AirPods Max of Beats Fit Pro om jou postuur te monitor.";
+
+
+/* Shown on the colors screen to prompt users to upgrade */
+"Colors will reset on relaunch" = "Kleure sal teruggestel word sodra app herlaai";
+"Go Pro" = "Gaan Professioneel";
+
+/* Posture Pal Pro screen */
+/* No need to change this */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+"Posture Pal\nPro" = "Posture Pal\nPro";
+"App Icons" = "App Ikone";
+"Unlimited Posture Sessions" = "Onbeperkte Postuur Sessies";
+"Custom Sensitivity" = "Gepersonaliseerde Sensitiwiteit";
+"Custom Colors" = "Gepersonaliseerde Kleure";
+"Extra App Icons" = "Ekstra App Ikone";
+"Unlock for %@" = "Sluit oop vir %@";
+"Terms of Use" = "Voorwaardes van gebruik";
+"Thanks for being a Pro!" = "Dankie dat jy ‘n Pro is!";
+
+/* Notifications */
+"Make your phone vibrate whenever your posture is bad." = "Maak jou foon vibreer waneer jou postuur sleg is";
+"No pages for this support item" = "Geen bladsye vir hierdie ondersteuning item";
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Speel ‘n subtiele klank deur jou AirPods wanneer jou postuur sleg is";
+
+/* Sensitivity */
+"Sensitivity" = "Sensitiwiteit";
+"Sensitivity: %@" = "Sensitiwiteit: %@";
+"Custom Angle %@" = "Gepersonaliseerde Gradiënt %@";
+"Session Complete" = "Sessie Volledig";
+"Settings" = "Instellings";
+"Skip" = "Slaan oor";
+
+"Sounds" = "Klanke";
+"Sound Alerts Disabled" = "Klankwaarskuwings Afgeskakel";
+"Sound Alerts Enabled" = "Klankwaarskuwings Aangeskakel";
+
+"Vibrations" = "Vibrasies";
+"Vibration Alerts Disabled" = "Vibrasiewaarskuwings Afgeskakel";
+"Vibration Alerts Enabled" = "Vibrasiewaarskuwings Aangeskakel";
+
+"Start Tracking" = "Begin Nasporing";
+"Stop Tracking" = "Stop Nasporing";
+
+"Update now" = "Opdateer nou";
+
+/* The built in angles, low medium and high settings */
+"Low" = "Laag";
+"Medium" = "Middelmatig";
+"High" = "Hoog";
+
+
+
+/* Onboarding */
+/* Titles based on current permission status */
+
+"Motion Data" = "Bewegings Data";
+"Motion Restricted" = "Bewegings Beperk";
+"Permission Denied" = "Toestemming Geweier";
+"Ready to Go!" = "Reg om te Gaan!";
+
+/* Subtitles based on current permission status */
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal monitor jou postuur deur jou Airpods te gebruik.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Bewegingsdatagebruik word vir hierdie toestel beperk. Jy kan hierdie in instellings verander.";
+"Motion Data permission was denied. You can change this in settings." = "Bewegingsdata permissie word geweier. Jy kan hierdie in instellings verander.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal kan jou Airpods gebruik om jou postuur te monitor";
+
+"Request" = "Aanvra";
+"Open Settings" = "Maak Instellings Oop";
+"Continue" = "Gaan Voort";
+
+"Super Serious Mode" = "Super ernstige modus";
+
+"Calibration" = "Calibration";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app.";
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
+
+"Alert Delay" = "Alert Delay";
+"How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
+
+"%ld second" = "%ld second";
+"%ld seconds" = "%ld seconds";
+
+"Sound Frequency" = "Sound Frequency";
+"How frequently warning sounds are played" = "How frequently warning sounds are played";
+
+"Review Posture Pal" = "Review Posture Pal";
+"Share Posture Pal" = "Share Posture Pal";
+
+"Start Tracking On Launch" = "Start Tracking On Launch";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";

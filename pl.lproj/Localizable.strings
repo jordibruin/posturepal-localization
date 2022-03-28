@@ -1,0 +1,135 @@
+/* 
+  Localizable.strings
+  Posture Pal
+
+  Created by Jordi Bruin on 05/03/2022.
+  
+*/
+
+/* Generic words */
+"Dismiss" = "Odrzuć";
+"Loading" = "Ładowanie";
+"More info" = "Więcej informacji";
+"OK" = "OK";
+"Privacy Policy" = "Polityka Prywatności";
+"Reset" = "Zresetuj";
+"Restore Purchases" = "Przywrócenie zakupu";
+"SCORE" = "WYNIK";
+"Back" = "Wstecz";
+"Get Started" = "Start";
+"Support" = "Pomoc";
+
+/* The different types of posture qualities. These will be shown on the session complete screen below a number of seconds */
+"Bad" = "Źle";
+"Good" = "Dobrze";
+"Great" = "Świetnie";
+
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal pomaga poprawić postawę głowy i szyi dzięki słuchawkom AirPods!";
+"Posture Tracking Sensitivity" = "Czułość śledzenia postawy";
+
+"10 minute time limit reached" = "Osiągnięto 10-minutowy limit czasu";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Dostosuj, jak zła musi być Twoja postawa, zanim Posture Pal Cię ostrzeże";
+
+/* shown when user presses the live updating bar */
+"Your good and bad posture seconds" = "Sekundy dobrej i złej postawy";
+
+/* Permissions */
+"No permission" = "Brak pozwolenia";
+"Authorization status is denied" = "Odmówiono autoryzacji";
+"Authorization status is restricted" = "Autoryzacja ograniczona";
+"Authorization status is unknown" = "Status autoryzacji jest nieznany";
+"Device motion is active" = "Ruch urządzenia jest aktywny";
+"Device motion is already active." = "Ruch urządzenia jest już aktywny.";
+
+"Connect supported AirPods to track your posture" = "Podłącz obsługiwane słuchawki AirPods, aby śledzić swoją postawę";
+"Your headphones don't support posture tracking" = "Twoje słuchawki nie obsługują śledzenia postawy";
+"Please, re-connect your headphones." = "Proszę ponownie podłączyć słuchawki.";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Potrzebujesz słuchawek AirPods 3. generacji, AirPods Pro, AirPods Max lub Beats Fit Pro, aby śledzić swoją postawę.";
+
+
+/* Shown on the colors screen to prompt users to upgrade */
+"Colors will reset on relaunch" = "Kolory zostaną zresetowane po ponownym uruchomieniu";
+"Go Pro" = "Wersja Pro";
+
+/* Posture Pal Pro screen */
+/* No need to change this */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+"Posture Pal\nPro" = "Posture Pal\nPro";
+"App Icons" = "App Icons";
+"Unlimited Posture Sessions" = "Unlimited Posture Sessions";
+"Custom Sensitivity" = "Custom Sensitivity";
+"Custom Colors" = "Custom Colors";
+"Extra App Icons" = "Extra App Icons";
+"Unlock for %@" = "Unlock for %@";
+"Terms of Use" = "Terms of Use";
+"Thanks for being a Pro!" = "Thanks for being a Pro!";
+
+/* Notifications */
+"Make your phone vibrate whenever your posture is bad." = "Wibracje telefonu w przypadku złej postawy.";
+"No pages for this support item" = "Brak stron dla tego elementu pomocy";
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Odtwarzaj subtelny dźwięk przez AirPods, gdy tylko twoja postawa jest zła";
+
+/* Sensitivity */
+"Sensitivity" = "Czułość";
+"Sensitivity: %@" = "Czułość: %@";
+"Custom Angle %@" = "Ustawienia kąta %@";
+"Session Complete" = "Sesja zakończona";
+"Settings" = "Ustawienia";
+"Skip" = "Pomiń";
+
+"Sounds" = "Dźwięki";
+"Sound Alerts Disabled" = "Powiadomienia dźwiękowe wyłączone";
+"Sound Alerts Enabled" = "Powiadomienia dźwiękowe włączone";
+
+"Vibrations" = "Wibracje";
+"Vibration Alerts Disabled" = "Powiadomienia wibracjami wyłączone";
+"Vibration Alerts Enabled" = "Powiadomienia wibracjami włączone";
+
+"Start Tracking" = "Rozpocznij śledzenie";
+"Stop Tracking" = "Zakończ śledzenie";
+
+"Update now" = "Aktualizuj teraz";
+
+/* The built in angles, low medium and high settings */
+"Low" = "Niski";
+"Medium" = "Średni";
+"High" = "Wysoki";
+
+/* Onboarding */
+/* Titles based on current permission status */
+
+"Motion Data" = "Dane ruchu";
+"Motion Restricted" = "Ograniczony ruch";
+"Permission Denied" = "Odmówiony dostęp";
+"Ready to Go!" = "Gotowe!";
+
+/* Subtitles based on current permission status */
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal śledzi Twoją postawę za pomocą słuchawek AirPods.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Użycie danych ruchu jest ograniczone dla tego urządzenia. Możesz to zmienić w ustawieniach.";
+"Motion Data permission was denied. You can change this in settings." = "Odmówiono pozwolenia na dane ruchu. Możesz to zmienić w ustawieniach.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal może używać słuchawek AirPods do śledzenia Twojej postawy.";
+
+"Request" = "Poproś o dostęp";
+"Open Settings" = "Otwórz ustawienia";
+"Continue" = "Kontyntynuj";
+
+"Super Serious Mode" = "Tryb bardzo poważny";
+
+"Calibration" = "Calibration";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app.";
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
+
+"Alert Delay" = "Alert Delay";
+"How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
+
+"%ld second" = "%ld second";
+"%ld seconds" = "%ld seconds";
+
+"Sound Frequency" = "Sound Frequency";
+"How frequently warning sounds are played" = "How frequently warning sounds are played";
+
+"Review Posture Pal" = "Review Posture Pal";
+"Share Posture Pal" = "Share Posture Pal";
+
+"Start Tracking On Launch" = "Start Tracking On Launch";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";

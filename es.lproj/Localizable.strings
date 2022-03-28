@@ -190,17 +190,38 @@
 /* Onboarding */
 /* Titles based on current permission status */
 
-"Motion Data" = "Motion Data";
-"Motion Restricted" = "Motion Restricted";
-"Permission Denied" = "Permission Denied";
-"Ready to Go!" = "Ready to Go!";
+"Motion Data" = "Datos de Movimiento";
+"Motion Restricted" = "Movimiento Restringido";
+"Permission Denied" = "Permiso Denegado";
+"Ready to Go!" = "Listo!";
 
 /* Subtitles based on current permission status */
-"Posture Pal tracks your posture by using your AirPods." = "Posture Pal tracks your posture by using your AirPods.";
-"Motion Data usage is restricted for this device. You can change this in settings." = "Motion Data usage is restricted for this device. You can change this in settings.";
-"Motion Data permission was denied. You can change this in settings." = "Motion Data permission was denied. You can change this in settings.";
-"Posture Pal can use your AirPods to track your posture." = "Posture Pal can use your AirPods to track your posture.";
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal rastrea su postura usando sus AirPods.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Datas de movimiento están restringido en este dispositivo. Puede cambiarlo en configuración.";
+"Motion Data permission was denied. You can change this in settings." = "Permiso para datas de movimiento están denegados. Puede cambiarlo en configuración.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal puede usar sus AirPods para rastrear su postura.";
 
-"Request" = "Request";
-"Open Settings" = "Open Settings";
-"Continue" = "Continue";
+"Request" = "Solicitar";
+"Open Settings" = "Abrir configuración";
+"Continue" = "Continuar";
+
+"Super Serious Mode" = "Modo súper serio";
+
+"Calibration" = "Calibration";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app.";
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
+
+"Alert Delay" = "Alert Delay";
+"How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
+
+"%ld second" = "%ld second";
+"%ld seconds" = "%ld seconds";
+
+"Sound Frequency" = "Sound Frequency";
+"How frequently warning sounds are played" = "How frequently warning sounds are played";
+
+"Review Posture Pal" = "Review Posture Pal";
+"Share Posture Pal" = "Share Posture Pal";
+
+"Start Tracking On Launch" = "Start Tracking On Launch";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";

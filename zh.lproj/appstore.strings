@@ -1,0 +1,68 @@
+/* App Store Title */
+"Posture Pal - Improve Stance" = "Posture Pal - 提升体态";
+
+/* App Store Subtitle */
+"Straight Back, Neck & Shoulder" = "调直背部，颈部和肩膀";
+
+/* App Store Description */
+"Posture Pal helps you improve your neck and shoulder posture by using the motion sensors in your headphones. Improve your neck, shoulder and back posture without having to purchase a separate tracking device. Just use your AirPods*.
+
+Start a Posture Session and Posture Pal will keep track if your neck tilt and will alert you in the background.
+
+Features:
+- Visual alerts when bad posture is detected
+- Phone vibration alerts when bad posture is detected
+- Sound alerts when bad posture is detected
+- Works in the background
+- Works while other sound is playing
+- Three different sensitivity levels
+- Custom colors and theming*
+- Custom sensitivity*
+- 12 different app icons*
+
+* Posture Pal supports AirPods (3rd Generation), AirPods Pro, AirPods Max and Beats Fit Pro. Other headphones that can send motion data to your iPhone can also work.
+** Posture Pal Pro required"
+
+= 
+
+"Posture Pal 通过耳机的动作传感器帮助您提升颈部和肩膀的体态。无需购买额外的监测设备就可以提升颈部，肩膀和背部的体态。只需您的AirPods*.
+
+开始一个Posture周期，Posture Pal会开始监测您的颈部是否倾斜并在后台提示您。
+
+功能：
+- 当监测到不良体态时的视觉提醒
+- 当监测到不良体态时的手机震动提醒
+- 当监测到不良体态时的声音提醒
+- 在后台运行
+- 支持在其他声音播放时使用
+- 三种不同的灵敏度级别
+- 自定义颜色和主题*
+- 自定义灵敏度*
+- 12种不同的应用图标*
+
+* Posture Pal 支持 AirPods (第三代), AirPods Pro, AirPods Max 和 Beats Fit Pro. 也支持其他能够传输动作数据至 iPhone 的耳机。
+** 需要Posture Pal Pro"
+
+/* App Store Keywords */
+"upright,neck,shoulder,back,stable,office,work,desk,stance,go,lumo,lift,active,straight,sit,airpods" = "挺拔,颈部,肩膀,背部,稳定,办公室,工作,伏案,仪态,走,lumo,提升,活跃,笔直,坐,airpods";
+
+"NSMotionUsageDescription" = "通过耳机的动作传感器数据监测您的头部姿势";
+
+
+/* Onboarding */
+/* Titles based on current permission status */
+
+"Motion Data" = "动作数据";
+"Motion Restricted" = "动作被限制";
+"Permission Denied" = "授权被拒绝";
+"Ready to Go!" = "准备就绪！";
+
+/* Subtitles based on current permission status */
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal通过AirPods监测您的体态.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "本设备已限制对运动数据的使用。您可以在设置中调整。";
+"Motion Data permission was denied. You can change this in settings." = "运动数据的授权被拒绝。您可以在设置中调整";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal可以通过AirPods监测您的体态。";
+
+"Request" = "请求";
+"Open Settings" = "打开设置";
+"Continue" = "继续";

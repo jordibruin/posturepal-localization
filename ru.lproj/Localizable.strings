@@ -1,0 +1,135 @@
+/* 
+  Localizable.strings
+  Posture Pal
+
+  Created by Jordi Bruin on 05/03/2022.
+  
+*/
+
+/* Generic words */
+"Dismiss" = "Отказ";
+"Loading" = "Загрузка";
+"More info" = "Подробнее";
+"OK" = "OK";
+"Privacy Policy" = "Политика приватности";
+"Reset" = "Перезагрузка";
+"Restore Purchases" = "Восстановить покупки";
+"SCORE" = "Результат";
+"Back" = "Назад";
+"Get Started" = "Начать";
+"Support" = "Поддержка";
+
+/* The different types of posture qualities. These will be shown on the session complete screen below a number of seconds */
+"Bad" = "Плохо";
+"Good" = "Хорошо";
+"Great" = "Великолепно";
+
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal поможет вам улучшить осанку в районе головы и шеи используя ваши AirPods!";
+"Posture Tracking Sensitivity" = "Чувствительность отслеживания осанки";
+
+"10 minute time limit reached" = "Лимит в 10 минут исчерпан";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Отрегулируйте уровень отклонения вашей осанки от нормы, когда Posture Pal должен предупредить вас";
+
+/* shown when user presses the live updating bar */
+"Your good and bad posture seconds" = "Ваши секунды хорошей и плохой осанки";
+
+/* Permissions */
+"No permission" = "Нет доступа";
+"Authorization status is denied" = "Авторизация отклонена";
+"Authorization status is restricted" = "Авторизация ограничена";
+"Authorization status is unknown" = "Статус авторизации неизвестен";
+"Device motion is active" = "Движение устройства активно";
+"Device motion is already active." = "Движение устройства уже активно.";
+
+"Connect supported AirPods to track your posture" = "Подключите поддерживаемые AirPods, чтобы отслеживать свою осанку";
+"Your headphones don't support posture tracking" = "Ваши наушники не поддерживают отслеживание осанки";
+"Please, re-connect your headphones." = "Пожалуйста, переподключите ваши наушники.";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Вам необходимо иметь AirPods (3-е поколение), AirPods Pro, AirPods Max or Beats Fit Pro для того, чтобы отслеживать вашу осанку.";
+
+
+/* Shown on the colors screen to prompt users to upgrade */
+"Colors will reset on relaunch" = "Цвета будут сброшены при перезапуске";
+"Go Pro" = "Приобрести Pro версию";
+
+/* Posture Pal Pro screen */
+/* No need to change this */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+"Posture Pal\nPro" = "Posture Pal\nPro";
+"App Icons" = "Иконки приложения";
+"Unlimited Posture Sessions" = "Неограниченные сеансы осанки";
+"Custom Sensitivity" = "Пользовательская чувствительность";
+"Custom Colors" = "Пользовательские цвета";
+"Extra App Icons" = "Дополнительные иконки приложения";
+"Unlock for %@" = "Разблокируйте для %@";
+"Terms of Use" = "Условия использования";
+"Thanks for being a Pro!" = "Благодарим за то, что используете Pro версию!";
+
+/* Notifications */
+"Make your phone vibrate whenever your posture is bad." = "Разрешите вашему телефону вибрировать, когда ваша осанка не в норме.";
+"No pages for this support item" = "Нет страниц для этого элемента поддержки";
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Воспроизведение элегантного звука через ваши AirPods, когда ваша осанка не в норме";
+
+/* Sensitivity */
+"Sensitivity" = "Чувствительность";
+"Sensitivity: %@" = "Чувствительность: %@";
+"Custom Angle %@" = "Пользовательский угол %@";
+"Session Complete" = "Сессия завершена";
+"Settings" = "Настройки";
+"Skip" = "Пропустить";
+
+"Sounds" = "Звуки";
+"Sound Alerts Disabled" = "Звуковые оповещения выключены";
+"Sound Alerts Enabled" = "Звуковые оповещения включены";
+
+"Vibrations" = "Вибрация";
+"Vibration Alerts Disabled" = "Вибрационные оповещения выключены";
+"Vibration Alerts Enabled" = "Вибрационные оповещения включены";
+
+"Start Tracking" = "Начать отслеживать";
+"Stop Tracking" = "Остановить отслеживание";
+
+"Update now" = "Обновить сейчас";
+
+/* The built in angles, low medium and high settings */
+"Low" = "Низкий";
+"Medium" = "Средний";
+"High" = "Высокий";
+
+/* Onboarding */
+/* Titles based on current permission status */
+
+"Motion Data" = "Данные движения";
+"Motion Restricted" = "Движение ограничено";
+"Permission Denied" = "Доступ запрещен";
+"Ready to Go!" = "Готово!!";
+
+/* Subtitles based on current permission status */
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal отслеживает вашу осанку с помощью AirPods";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Использование данных ваших движений ограничено для этого устройства. Вы можете изменить это в настройках.";
+"Motion Data permission was denied. You can change this in settings." = "Использование данных ваших движений было отклонено на данном устройстве. Вы можете изменить это в настройках.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal может использовать ваши AirPods для отслеживания вашей осанки.";
+
+"Request" = "Запрос";
+"Open Settings" = "Открыть настройки";
+"Continue" = "Продолжить";
+
+"Super Serious Mode" = "Супер серьезный режим";
+
+"Calibration" = "Calibration";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app.";
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
+
+"Alert Delay" = "Alert Delay";
+"How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
+
+"%ld second" = "%ld second";
+"%ld seconds" = "%ld seconds";
+
+"Sound Frequency" = "Sound Frequency";
+"How frequently warning sounds are played" = "How frequently warning sounds are played";
+
+"Review Posture Pal" = "Review Posture Pal";
+"Share Posture Pal" = "Share Posture Pal";
+
+"Start Tracking On Launch" = "Start Tracking On Launch";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";

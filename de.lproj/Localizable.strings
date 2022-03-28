@@ -104,16 +104,16 @@ Created by Florian Schweizer on 06/03/2022.
 "Restore Purchases" = "Einkäufe wiederherstellen";
 
 /* No comment provided by engineer. */
-"SCORE" = "PUNKTE";
+"SCORE" = "ERGEBNIS";
+
+/* No comment provided by engineer. */
+"Session Complete" = "Sitzung abgeschlossen";
 
 /* No comment provided by engineer. */
 "Sensitivity" = "Sensitivität";
 
 /* No comment provided by engineer. */
 "Sensitivity: %@" = "Sensitivität: %@";
-
-/* No comment provided by engineer. */
-"Session Complete" = "Sitzung beendet";
 
 /* No comment provided by engineer. */
 "Settings" = "Einstellungen";
@@ -165,17 +165,18 @@ Created by Florian Schweizer on 06/03/2022.
 "Vibrations" = "Vibrationen";
 
 /* No comment provided by engineer. */
-"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Du brauchst AirPods (3. Generation), AirPods Pro, AirPods Max oder Beast Fit Pro, um deine Haltung zu überwachen.";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Sie benötigen AirPods (3. Generation), AirPods Pro, AirPods Max oder Beats Fit Pro, um Ihre Körperhaltung zu verfolgen.";
 
 /* No comment provided by engineer. */
-"Your headphones don't support posture tracking" = "Deine Kopfhörer unterstützten die Haltungs-Überwachung nicht";
+"Your good and bad posture seconds" = "Ihre gute und schlechte Körperhaltung Sekunden";
 
 /* No comment provided by engineer. */
-"Your good and bad posture seconds" = "Deine guten und schlechten Haltungs-Sekunden";
+"Your headphones don't support posture tracking" = "Ihre Kopfhörer unterstützen keine Haltungsverfolgung";
 
-/* No comment provided by engineer. */
-"Your headphones don't support posture tracking" = "Deine Kopfhörer unterstützen nicht das Tracking der Haltung";
-
+/* PURCHASES */
+"Unlimited Posture Sessions" = "Unbegrenzte Haltungssitzungen";
+"Custom Sensitivity" = "Benutzerdefinierte Empfindlichkeit";
+"Custom Colors" = "Benutzerdefinierte Farben";
 
 /* ANGLES */
 "Low" = "Niedrig";
@@ -205,3 +206,24 @@ Created by Florian Schweizer on 06/03/2022.
 "Request" = "Anfrage";
 "Open Settings" = "Einstellungen öffnen";
 "Continue" = "Weiter";
+
+"Super Serious Mode" = "Super seriöser Modus";
+
+"Calibration" = "Kalibration";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Setzen Sie sich aufrecht hin und stellen Sie den Kalibrierungswinkel so ein, dass Ihre Körperhaltung korrekt angezeigt wird.";
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "Wenn Sie Ihre Kopfhörer schräg tragen, können Sie die Kalibrierung der Haltungs-Überwachung anpassen.";
+
+"Alert Delay" = "Verspätete Warnung";
+"How many seconds a bad posture must be detected before you get a warning message" = "Wie viele Sekunden muss eine Fehlhaltung erkannt werden, bevor Sie eine Warnmeldung erhalten";
+
+"%ld second" = "%ld Sekunde";
+"%ld seconds" = "%ld Sekunden";
+
+"Sound Frequency" = "Frequenz von Warnungen";
+"How frequently warning sounds are played" = "Wie oft Warntöne abgespielt werden";
+
+"Review Posture Pal" = "Bewertung Posture Pal";
+"Share Posture Pal" = "Teilen Posture Pal";
+
+"Start Tracking On Launch" = "Überwachung beim öffnen";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Haltungs-Überwachung konnte nicht automatisch gestartet werden, da unterstützte Kopfhörer nicht angeschlossen sind.";

@@ -1,0 +1,136 @@
+/* 
+  Localizable.strings
+  Posture Pal
+
+  Created by Jordi Bruin on 05/03/2022.
+  
+*/
+
+/* Generic words */
+"Dismiss" = "Dismiss";
+"Loading" = "Carregando";
+"More info" = "Mais informações";
+"OK" = "OK";
+"Privacy Policy" = "Política de Privacidade";
+"Reset" = "Reiniciar";
+"Restore Purchases" = "Restaurar Compras";
+"SCORE" = "PONTUAÇÃO";
+"Back" = "Voltar";
+"Get Started" = "Iniciar";
+"Support" = "Suporte";
+
+/* The different types of posture qualities. These will be shown on the session complete screen below a number of seconds */
+"Bad" = "Ruim";
+"Good" = "Bom";
+"Great" = "Ótimo";
+
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal ajuda a corrigir a postura da sua cabeça e pescoço com os seus AirPods!";
+"Posture Tracking Sensitivity" = "Sensibilidade do Monitoramento de Postura";
+
+"10 minute time limit reached" = "Limite de 10 minutos excedido";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Ajuste o quão ruim a sua postura precisa ser antes que o Posture Pal o alerte";
+
+/* shown when user presses the live updating bar */
+"Your good and bad posture seconds" = "Os seus segundos de boa e má postura";
+
+/* Permissions */
+"No permission" = "Sem permissão";
+"Authorization status is denied" = "O estado de autorização é negado.";
+"Authorization status is restricted" = "O estado de autorização é restrito.";
+"Authorization status is unknown" = "O estado de autorização é desconhecido.";
+"Device motion is active" = "O movimento do dispositivo está ativo";
+"Device motion is already active." = "O movimento do dispositivo já está ativo.";
+
+"Connect supported AirPods to track your posture" = "Conecte AirPods compatíveis para monitorar a sua postura";
+"Your headphones don't support posture tracking" = "Os seus fones de ouvido não suportam monitoramento de postura";
+"Please, re-connect your headphones." = "Por favor, conecte os seus fones de ouvido novamente";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Você precisa de um AirPods (3ª Geração), AirPods Pro, AirPods Max ou Beats Fir Pro para monitorar a sua postura.";
+
+
+/* Shown on the colors screen to prompt users to upgrade */
+"Colors will reset on relaunch" = "As cores serão redefinidas ao reiniciar o app";
+"Go Pro" = "Se torne Pro";
+
+/* Posture Pal Pro screen */
+/* No need to change this */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+"Posture Pal\nPro" = "Posture Pal\nPro";
+"App Icons" = "Ícones do aplicativo";
+"Unlimited Posture Sessions" = "Sessões ilimitadas de postura";
+"Custom Sensitivity" = "Sensibilidade customizada";
+"Custom Colors" = "Cores Customizadas";
+"Extra App Icons" = "Ícones de aplicativo adicionais";
+"Unlock for %@" = "Desbloqueie por %@";
+"Terms of Use" = "Termos de Uso";
+"Thanks for being a Pro!" = "Obrigado por ser Pro!";
+
+/* Notifications */
+"Make your phone vibrate whenever your posture is bad." = "Faça o seu telefone vibrar sempre que a sua postura estiver ruim.";
+"No pages for this support item" = "Não há páginas de suporte para este item";
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Reproduza um som sútil em seus AirPods quando a sua postura estiver ruim.";
+
+/* Sensitivity */
+"Sensitivity" = "Sensibilidade";
+"Sensitivity: %@" = "Sensibilidade: %@";
+"Custom Angle %@" = "Ângulo Personalizado %@";
+"Session Complete" = "Sessão Finalizada";
+"Settings" = "Ajustes";
+"Skip" = "Pular";
+
+"Sounds" = "Sons";
+"Sound Alerts Disabled" = "Alertas Sonoros Desabilitados";
+"Sound Alerts Enabled" = "Alertas Sonoros Abilitados";
+
+"Vibrations" = "Vibrações";
+"Vibration Alerts Disabled" = "Alertas de Vibração Desabilitados";
+"Vibration Alerts Enabled" = "Alertas de Vibração Abilitados";
+
+"Start Tracking" = "Iniciar Monitoramento";
+"Stop Tracking" = "Finalizar Monitoramento";
+
+"Update now" = "Atualize agora";
+
+/* The built in angles, low medium and high settings */
+"Low" = "Baixo";
+"Medium" = "Médio";
+"High" = "Alto";
+
+/* Onboarding */
+/* Titles based on current permission status */
+
+"Motion Data" = "Dados de Movimento";
+"Motion Restricted" = "Movimento Restrito";
+"Permission Denied" = "Permissão Negada";
+"Ready to Go!" = "Pronto para Começar!";
+
+/* Subtitles based on current permission status */
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal monitora a sua postura através dos seus AirPods.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "O uso dos Dados de Movimento deste dispositivo está restrito. Você pode alterar isso nos ajustes.";
+"Motion Data permission was denied. You can change this in settings." = "A permissão para os Dados de Movimento está negado. Você pode alterar isso nos ajustes.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal pode usar os seus AirPods para monitorar sua postura.";
+
+"Request" = "Request";
+"Open Settings" = "Abrir Ajustes";
+"Continue" = "Continuar";
+
+
+"Super Serious Mode" = "Modo super sério";
+
+"Calibration" = "Calibration";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app.";
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
+
+"Alert Delay" = "Alert Delay";
+"How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
+
+"%ld second" = "%ld second";
+"%ld seconds" = "%ld seconds";
+
+"Sound Frequency" = "Sound Frequency";
+"How frequently warning sounds are played" = "How frequently warning sounds are played";
+
+"Review Posture Pal" = "Review Posture Pal";
+"Share Posture Pal" = "Share Posture Pal";
+
+"Start Tracking On Launch" = "Start Tracking On Launch";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";

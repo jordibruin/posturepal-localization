@@ -1,0 +1,116 @@
+/*
+  Localizable.strings
+  Posture Pal
+
+  Created by Jordi Bruin on 05/03/2022.
+
+*/
+
+/* Generic words */
+"Dismiss" = "Zrušiť";
+"Loading" = "Načítavam";
+"More info" = "Viac";
+"OK" = "OK";
+"Privacy Policy" = "Zásady ochrany osobných údajov";
+"Reset" = "Resetovať";
+"Restore Purchases" = "Obnov nákup";
+"SCORE" = "SKÓRE";
+"Back" = "Späť";
+"Get Started" = "Začíname";
+"Support" = "Podpora";
+
+/* The different types of posture qualities. These will be shown on the session complete screen below a number of seconds */
+"Bad" = "Zlá";
+"Good" = "Dobrá";
+"Great" = "Výborná";
+
+"Posture Pal helps you improve your head and neck posture with your AirPods!" = "Posture Pal ti pomáha zlepšiť držanie krku a hlavy za pomoci tvojich AirPodov!";
+"Posture Tracking Sensitivity" = "Citlivosť snímania pozície";
+
+"10 minute time limit reached" = "10 minútový časový limit dosiahnutý";
+"Adjust how bad your posture needs to be before Posture Pal alerts you" = "Prispôsob aká zlá musí byť tvoja pozícia pred tým ako ťa Posture Pal upozorní";
+
+/* shown when user presses the live updating bar */
+"Your good and bad posture seconds" = "Tvoje sekundy dobrej a zlej pozície";
+
+/* Permissions */
+"No permission" = "Nepovolené";
+"Authorization status is denied" = "Prístup je zamietnutý";
+"Authorization status is restricted" = "Prístup je obmedzený";
+"Authorization status is unknown" = "Stav neznámy";
+"Device motion is active" = "Pohybový senzor je aktívny";
+"Device motion is already active." = "Pohybový senzor je už aktívny.";
+
+"Connect supported AirPods to track your posture" = "Pripoj podporované AirPody pre snímanie pozície tela";
+"Your headphones don't support posture tracking" = "Tvoje AirPody nepodporujú snímanie pozície tela";
+"Please, re-connect your headphones." = "Prosím, znovu pripoj svoje sluchátka.";
+"You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Potrebuješ AirPods (3. generácia), AirPods Pro, AirPods Max alebo Beats Fit Pro pre snímanie pozície tela.";
+
+
+/* Shown on the colors screen to prompt users to upgrade */
+"Colors will reset on relaunch" = "Farby sa vynulujú po reštarte";
+"Go Pro" = "Buď Pro";
+
+/* Posture Pal Pro screen */
+/* No need to change this */
+"Posture\nPal Pro" = "Posture\nPal Pro";
+"Posture Pal\nPro" = "Posture Pal\nPro";
+"App Icons" = "App Ikony";
+"Unlimited Posture Sessions" = "Neobmedzené snímanie držania tela";
+"Custom Sensitivity" = "Vlastné nastavenie citlivosti";
+"Custom Colors" = "Vlastné nastavenie farieb";
+"Extra App Icons" = "Extra App Ikony";
+"Unlock for %@" = "Odomkni pre %@";
+"Terms of Use" = "Podmienky používania";
+"Thanks for being a Pro!" = "Ďakujeme že si Pro!";
+
+/* Notifications */
+"Make your phone vibrate whenever your posture is bad." = "Pri zlom držaní tela bude telefón vibrovať.";
+"No pages for this support item" = "Pre túto položku nie sú k dispozícii žiadne stránky";
+"Play a subtle sound through your AirPods whenever your posture is bad" = "Prehraj jemný zvuk cez AirPody keď nie je pozícia tela správna";
+
+/* Sensitivity */
+"Sensitivity" = "Citlivosť";
+"Sensitivity: %@" = "Citlivosť: %@";
+"Custom Angle %@" = "Vlastný uhol %@";
+"Session Complete" = "Ukončené";
+"Settings" = "Nastavenia";
+"Skip" = "Preskočiť";
+
+"Sounds" = "Zvuky";
+"Sound Alerts Disabled" = "Zvukové upozornenie vypnuté";
+"Sound Alerts Enabled" = "Zvukové upozornenie zapnuté";
+
+"Vibrations" = "Vibrácie";
+"Vibration Alerts Disabled" = "Vibrácie vypnuté";
+"Vibration Alerts Enabled" = "Vibrácie zapnuté";
+
+"Start Tracking" = "Začni monitorovanie";
+"Stop Tracking" = "Ukonči monitorovanie";
+
+"Update now" = "Aktualizuj teraz";
+
+/* The built in angles, low medium and high settings */
+"Low" = "Nízky";
+"Medium" = "Stredný";
+"High" = "Vysoký";
+
+
+"Calibration" = "Calibration";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app.";
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
+
+"Alert Delay" = "Alert Delay";
+"How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
+
+"%ld second" = "%ld second";
+"%ld seconds" = "%ld seconds";
+
+"Sound Frequency" = "Sound Frequency";
+"How frequently warning sounds are played" = "How frequently warning sounds are played";
+
+"Review Posture Pal" = "Review Posture Pal";
+"Share Posture Pal" = "Share Posture Pal";
+
+"Start Tracking On Launch" = "Start Tracking On Launch";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";
