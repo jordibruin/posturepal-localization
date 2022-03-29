@@ -117,20 +117,20 @@
 "Super Serious Mode" = "Modo super sério";
 
 "Calibration" = "Calibration";
-"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app.";
-"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sente-se direito e ajuste o ângulo de calibragem para que sua postura seja exibida corretamente no app.";
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "Se você usa seus fones em um ângulo você pode ajustar a calibragem de monitoramento de postura";
 
-"Alert Delay" = "Alert Delay";
-"How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
+"Alert Delay" = "Atraso de alerta";
+"How many seconds a bad posture must be detected before you get a warning message" = "Quantos segundos uma má postura deve ser detectada antes de emitir um mensagem de alerta";
 
-"%ld second" = "%ld second";
-"%ld seconds" = "%ld seconds";
+"%ld second" = "%ld segundo";
+"%ld seconds" = "%ld segundos";
 
-"Sound Frequency" = "Sound Frequency";
-"How frequently warning sounds are played" = "How frequently warning sounds are played";
+"Sound Frequency" = "Frequência sonora";
+"How frequently warning sounds are played" = "Com que frequência alertas sonoros são reproduzidos";
 
-"Review Posture Pal" = "Review Posture Pal";
-"Share Posture Pal" = "Share Posture Pal";
+"Review Posture Pal" = "Avalie Posture Pal";
+"Share Posture Pal" = "Compartilhe Posture Pal";
 
-"Start Tracking On Launch" = "Start Tracking On Launch";
-"Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";
+"Start Tracking On Launch" = "Começar a monitorar ao iniciar o app";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Não foi possível iniciar o monitoramento de postura automaticamente por falta de fones compatíveis conectados.";
