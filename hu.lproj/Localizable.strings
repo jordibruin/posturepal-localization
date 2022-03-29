@@ -207,21 +207,21 @@
 
 "Super Serious Mode" = "Szuper komoly mód";
 
-"Calibration" = "Calibration";
-"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app.";
-"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
+"Calibration" = "Kalibrálás";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Üljön egyenesen, és állítsa be a szöget helyesen, hogy a tartása helyesen legyen az appban.";
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "Ha döntve hordja fejhallgatóját, a dőlésszöget beállíthatja kalibrációval, hogy a tartás érzékelő pontos legyen;
 
-"Alert Delay" = "Alert Delay";
-"How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
+"Alert Delay" = "Jelzés késleltetés";
+"How many seconds a bad posture must be detected before you get a warning message" = "Hány másodpercig kell rossz tartást érzékelni a jelzés előtt";
 
-"%ld second" = "%ld second";
-"%ld seconds" = "%ld seconds";
+"%ld second" = "%ld másodperc";
+"%ld seconds" = "%ld másodperc";
 
-"Sound Frequency" = "Sound Frequency";
-"How frequently warning sounds are played" = "How frequently warning sounds are played";
+"Sound Frequency" = "Hangjelzés gyakorisága";
+"How frequently warning sounds are played" = "Milyen gyakran játszódjon le a hangjelzés";
 
-"Review Posture Pal" = "Review Posture Pal";
-"Share Posture Pal" = "Share Posture Pal";
+"Review Posture Pal" = "Posture Pal értékelése";
+"Share Posture Pal" = "Posture Pal megosztása";
 
-"Start Tracking On Launch" = "Start Tracking On Launch";
-"Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";
+"Start Tracking On Launch" = "Tartás érzékelés elkezdése indításkor";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Tartás érzékelés nem indítható, nem található támogatott fejhallgató.";
