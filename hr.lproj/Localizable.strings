@@ -42,7 +42,7 @@
 "Device motion is already active." = "Praćenje pokreta slušalica je već uključeno.";
 
 "Connect supported AirPods to track your posture" = "Poveži podržane AirPods slušalice za praćenje pravilnog držanja";
-"Your headphones don't support posture tracking" = "Your headphones don't support posture tracking";
+"Your headphones don't support posture tracking" = "Spojene slušalice ne podržavaju praćenje pokreta";
 "Please, re-connect your headphones." = "Ponovno spojite slušalice.";
 "You need AirPods (3rd generation), AirPods Pro, AirPods Max or Beats Fit Pro to track your posture." = "Trebaš AirPods (3rd generation), AirPods Pro, AirPods Max ili Beats Fit Pro slušalice za praćenje pravilnog držanja glave.";
 
@@ -55,14 +55,14 @@
 /* No need to change this */
 "Posture\nPal Pro" = "Posture\nPal Pro";
 "Posture Pal\nPro" = "Posture Pal\nPro";
-"App Icons" = "App Icons";
+"App Icons" = "Ikone aplikacije";
 "Unlimited Posture Sessions" = "Neograničeno praćenje pravilnog držanja";
 "Custom Sensitivity" = "Odabir osjetljivosti";
 "Custom Colors" = "Odabir boja";
 "Extra App Icons" = "Dodatne ikone aplikacije";
 "Unlock for %@" = "Otključaj za %@";
-"Terms of Use" = "Terms of Use";
-"Thanks for being a Pro!" = "Thanks for being a Pro!";
+"Terms of Use" = "Pravila korištenja";
+"Thanks for being a Pro!" = "Hvala što koristiš Pro verziju!";
 
 /* Notifications */
 "Make your phone vibrate whenever your posture is bad." = "Mobitel će zavibrirati svaki put kad je držanje loše.";
@@ -99,7 +99,7 @@
 /* Titles based on current permission status */
 
 "Motion Data" = "Podaci o pokretu";
-"Motion Restricted" = "Pokreti ograničeni";
+"Motion Restricted" = "Pokret ograničen";
 "Permission Denied" = "Dozvola odbijena";
 "Ready to Go!" = "Spremno!";
 
