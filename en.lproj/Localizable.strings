@@ -48,7 +48,7 @@
 
 
 /* Shown on the colors screen to prompt users to upgrade */
-"Colors will reset on relaunch" = "Colors will reset on relaunch";
+"Colors will reset on relaunch" = "Themes will reset on relaunch";
 "Go Pro" = "Go Pro";
 
 /* Posture Pal Pro screen */
@@ -133,3 +133,6 @@
 
 "Start Tracking On Launch" = "Start Tracking On Launch";
 "Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";
+
+"Themes" = "Themes";
+"Patterns" = "Patterns";
