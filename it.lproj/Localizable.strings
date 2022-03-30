@@ -213,8 +213,8 @@
 "Alert Delay" = "Ritardo di avviso";
 "How many seconds a bad posture must be detected before you get a warning message" = "Quanti secondi deve essere rilevata una postura scorretta prima di ricevere un messaggio di avviso";
 
-"%ld second" = "%ld secondo";
-"%ld seconds" = "%ld secondi";
+"%lld second" = "%ld secondo";
+"%lld seconds" = "%ld secondi";
 
 "Sound Frequency" = "Frequenza del suono";
 "How frequently warning sounds are played" = "Quanto spesso vengono riprodotti i suoni di avviso";

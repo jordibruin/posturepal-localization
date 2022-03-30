@@ -214,8 +214,8 @@
 "Alert Delay" = "Jelzés késleltetés";
 "How many seconds a bad posture must be detected before you get a warning message" = "Hány másodpercig kell rossz tartást érzékelni a jelzés előtt";
 
-"%ld second" = "%ld másodperc";
-"%ld seconds" = "%ld másodperc";
+"%lld second" = "%ld másodperc";
+"%lld seconds" = "%ld másodperc";
 
 "Sound Frequency" = "Hangjelzés gyakorisága";
 "How frequently warning sounds are played" = "Milyen gyakran játszódjon le a hangjelzés";
