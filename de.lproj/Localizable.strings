@@ -222,8 +222,8 @@ Created by Florian Schweizer on 06/03/2022.
 "Sound Frequency" = "Frequenz von Warnungen";
 "How frequently warning sounds are played" = "Wie oft Warntöne abgespielt werden";
 
-"Review Posture Pal" = "Bewertung Posture Pal";
-"Share Posture Pal" = "Teilen Posture Pal";
+"Review Posture Pal" = "Bewerte Posture Pal";
+"Share Posture Pal" = "Teile Posture Pal";
 
-"Start Tracking On Launch" = "Überwachung beim öffnen";
+"Start Tracking On Launch" = "Überwachung beim Öffnen";
 "Could not automatically start Posture Tracking because supported headphones are not connected." = "Haltungs-Überwachung konnte nicht automatisch gestartet werden, da unterstützte Kopfhörer nicht angeschlossen sind.";
