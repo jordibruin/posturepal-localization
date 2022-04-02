@@ -200,27 +200,27 @@
 "Motion Data permission was denied. You can change this in settings." = "L'autorizzazione per i dati di movimento è stata negata. Puoi modificarlo nelle impostazioni.";
 "Posture Pal can use your AirPods to track your posture." = "Posture Pal può utilizzare i tuoi AirPods per monitorare la tua postura.";
 
-"Request" = "Richiesta";
+"Request" = "Richiedi permessi";
 "Open Settings" = "Apri Impostazioni";
 "Continue" = "Continua";
 
 "Super Serious Mode" = "Modalità super seria";
 
 "Calibration" = "Calibrazione";
-"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Siediti dritto e regola l'angolo di calibrazione in modo che la tua postura venga visualizzata correttamente nell'app.";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Siediti composto e regola l'angolo di calibrazione in modo che la tua postura venga visualizzata correttamente nell'app.";
 "If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "Se indossi le cuffie inclinate puoi regolare la calibrazione del rilevamento della postura";
 
 "Alert Delay" = "Ritardo di avviso";
-"How many seconds a bad posture must be detected before you get a warning message" = "Quanti secondi deve essere rilevata una postura scorretta prima di ricevere un messaggio di avviso";
+"How many seconds a bad posture must be detected before you get a warning message" = "Per quanti secondi deve essere rilevata una postura scorretta prima di ricevere un messaggio di avviso";
 
-"%lld second" = "%ld secondo";
-"%lld seconds" = "%ld secondi";
+"%ld second" = "%ld secondo";
+"%ld seconds" = "%ld secondi";
 
 "Sound Frequency" = "Frequenza del suono";
-"How frequently warning sounds are played" = "Quanto spesso vengono riprodotti i suoni di avviso";
+"How frequently warning sounds are played" = "Frequenza con cui vengono riprodotti i suoni di avviso";
 
-"Review Posture Pal" = "Recensiona Posture Pal";
+"Review Posture Pal" = "Recensisci Posture Pal";
 "Share Posture Pal" = "Condividi Posture Pal";
 
-"Start Tracking On Launch" = "Inizia il monitoraggio all'avvio";
+"Start Tracking On Launch" = "Inizia il tracciamento all'apertura";
 "Could not automatically start Posture Tracking because supported headphones are not connected." = "Impossibile avviare automaticamente il monitoraggio della postura perché le cuffie supportate non sono collegate.";
