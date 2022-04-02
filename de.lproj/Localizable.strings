@@ -216,8 +216,8 @@ Created by Florian Schweizer on 06/03/2022.
 "Alert Delay" = "Verspätete Warnung";
 "How many seconds a bad posture must be detected before you get a warning message" = "Wie viele Sekunden muss eine Fehlhaltung erkannt werden, bevor Sie eine Warnmeldung erhalten";
 
-"%ld second" = "%ld Sekunde";
-"%ld seconds" = "%ld Sekunden";
+"%lld second" = "%ld Sekunde";
+"%lld seconds" = "%ld Sekunden";
 
 "Sound Frequency" = "Frequenz von Warnungen";
 "How frequently warning sounds are played" = "Wie oft Warntöne abgespielt werden";

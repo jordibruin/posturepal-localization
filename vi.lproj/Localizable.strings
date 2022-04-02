@@ -122,8 +122,8 @@
 "Alert Delay" = "Dời Cảnh báo";
 "How many seconds a bad posture must be detected before you get a warning message" = "Tư thế xấu kéo dài bao nhiêu giây trước khi bạn nhận được âm thanh cảnh báo";
 
-"%ld second" = "%ld giây";
-"%ld seconds" = "%ld giây";
+"%lld second" = "%ld giây";
+"%lld seconds" = "%ld giây";
 
 "Sound Frequency" = "Tần suất Âm thanh";
 "How frequently warning sounds are played" = "Chơi âm thanh cảnh báo thường xuyên hay không";

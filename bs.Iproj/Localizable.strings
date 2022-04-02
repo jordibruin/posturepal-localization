@@ -191,37 +191,37 @@
 /* Onboarding */
 /* Titles based on current permission status */
 
-"Motion Data" = "Motion Data";
-"Motion Restricted" = "Motion Restricted";
-"Permission Denied" = "Permission Denied";
-"Ready to Go!" = "Ready to Go!";
+"Motion Data" = "Podaci kretanja";
+"Motion Restricted" = "Ograničeno kretanje";
+"Permission Denied" = "Dozovla odbijena";
+"Ready to Go!" = "Spremno!";
 
 /* Subtitles based on current permission status */
-"Posture Pal tracks your posture by using your AirPods." = "Posture Pal tracks your posture by using your AirPods.";
-"Motion Data usage is restricted for this device. You can change this in settings." = "Motion Data usage is restricted for this device. You can change this in settings.";
-"Motion Data permission was denied. You can change this in settings." = "Motion Data permission was denied. You can change this in settings.";
-"Posture Pal can use your AirPods to track your posture." = "Posture Pal can use your AirPods to track your posture.";
+"Posture Pal tracks your posture by using your AirPods." = "Posture Pal prati tvoje držanje koristeći tvoje AirPods slušalice.";
+"Motion Data usage is restricted for this device. You can change this in settings." = "Podaci kretanja su ograničeni za ovaj uređaj. Promjeni ograničenja u postavkama.";
+"Motion Data permission was denied. You can change this in settings." = "Podaci kretanja su odbijeni za ovaj uređaj. Promjeni ograničenja u postavkama.";
+"Posture Pal can use your AirPods to track your posture." = "Posture Pal korisiti tvoje AirPods slušalice da prati tvoje držanje.";
 
-"Request" = "Request";
-"Open Settings" = "Open Settings";
-"Continue" = "Continue";
+"Request" = "Zatraži";
+"Open Settings" = "Otvori postavke";
+"Continue" = "Nastavi";
 
 
-"Calibration" = "Calibration";
-"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app.";
-"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "If you wear your headphones at an angle you can adjust the calibration of the posture tracking";
+"Calibration" = "Kalibracija";
+"Sit up straight and adjust the calibration angle so your posture is displayed correctly in the app." = "Ispravi se i namjesti ugao kalibracije za tvoje držanje i prikaži tačno unutar aplikacije ";
+"If you wear your headphones at an angle you can adjust the calibration of the posture tracking" = "Ako nosiš slušalice pod uglom možeš kalibrirati praćenja držanja";
 
-"Alert Delay" = "Alert Delay";
-"How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
+"Alert Delay" = "Odgodi Upozorenje";
+"How many seconds a bad posture must be detected before you get a warning message" = "Koliko sekundi lošeg držanja treba biti detektovano prije nego što dobiješ upozoranje";
 
-"%ld second" = "%ld second";
-"%ld seconds" = "%ld seconds";
+"%lld second" = "%ld sekunda";
+"%lld seconds" = "%ld sekundi";
 
-"Sound Frequency" = "Sound Frequency";
-"How frequently warning sounds are played" = "How frequently warning sounds are played";
+"Sound Frequency" = "Frekvencija zvuka";
+"How frequently warning sounds are played" = "Koliko često zvukovi upozorenja se oglašavaju";
 
-"Review Posture Pal" = "Review Posture Pal";
-"Share Posture Pal" = "Share Posture Pal";
+"Review Posture Pal" = "Recenziraj Posture Pal";
+"Share Posture Pal" = "Podijeli Posture Pal";
 
-"Start Tracking On Launch" = "Start Tracking On Launch";
-"Could not automatically start Posture Tracking because supported headphones are not connected." = "Could not automatically start Posture Tracking because supported headphones are not connected.";
+"Start Tracking On Launch" = "Počni Pratiti na Otvaranju";
+"Could not automatically start Posture Tracking because supported headphones are not connected." = "Nije moguće započet automatsko praćanje jer Posture Praćenje nije omogućeno sa slušalicama koje su trenutno konektovane.";

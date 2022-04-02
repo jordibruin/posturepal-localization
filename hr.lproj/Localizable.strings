@@ -122,8 +122,8 @@
 "Alert Delay" = "Odgoda Upozorenja";
 "How many seconds a bad posture must be detected before you get a warning message" = "Koliko sekundi loše držanje mora biti detektirano da bi se prikazalo upozorenje";
 
-"%ld second" = "%ld sekunda";
-"%ld seconds" = "%ld sekunde/i";
+"%lld second" = "%ld sekunda";
+"%lld seconds" = "%ld sekunde";
 
 "Sound Frequency" = "Frekvencija Zvuka";
 "How frequently warning sounds are played" = "Koliko se često čuje zvuk upozorenja";
