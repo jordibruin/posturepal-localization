@@ -211,8 +211,8 @@
 "Alert Delay" = "Waarschuwing Vertraging";
 "How many seconds a bad posture must be detected before you get a warning message" = "Hoeveel seconden een slechte houding moet worden herkend voordat er waarschuwingen worden gegeven.";
 
-"%ld second" = "%ld seconde";
-"%ld seconds" = "%ld seconden";
+"%lld second" = "%ld seconde";
+"%lld seconds" = "%ld seconden";
 
 "Sound Frequency" = "Geluids Frequentie";
 "How frequently warning sounds are played" = "Hoe vaak waarschuwingsgeluiden worden afgespeeld";

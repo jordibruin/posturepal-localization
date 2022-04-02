@@ -129,8 +129,8 @@
 "Alert Delay" = "Alert Delay";
 "How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
 
-"%ld second" = "%ld second";
-"%ld seconds" = "%ld seconds";
+"%lld second" = "%ld second";
+"%lld seconds" = "%ld seconds";
 
 "Sound Frequency" = "Sound Frequency";
 "How frequently warning sounds are played" = "How frequently warning sounds are played";

@@ -190,20 +190,20 @@
 /* Onboarding */
 /* Titles based on current permission status */
 
-"Motion Data" = "Motion Data";
-"Motion Restricted" = "Motion Restricted";
-"Permission Denied" = "Permission Denied";
-"Ready to Go!" = "Ready to Go!";
+"Motion Data" = "动作数据";
+ "Motion Restricted" = "动作被限制";
+ "Permission Denied" = "授权被拒绝";
+ "Ready to Go!" = "准备就绪！";
 
-/* Subtitles based on current permission status */
-"Posture Pal tracks your posture by using your AirPods." = "Posture Pal tracks your posture by using your AirPods.";
-"Motion Data usage is restricted for this device. You can change this in settings." = "Motion Data usage is restricted for this device. You can change this in settings.";
-"Motion Data permission was denied. You can change this in settings." = "Motion Data permission was denied. You can change this in settings.";
-"Posture Pal can use your AirPods to track your posture." = "Posture Pal can use your AirPods to track your posture.";
+ /* Subtitles based on current permission status */
+ "Posture Pal tracks your posture by using your AirPods." = "Posture Pal通过AirPods监测您的体态.";
+ "Motion Data usage is restricted for this device. You can change this in settings." = "本设备已限制对运动数据的使用。您可以在设置中调整。";
+ "Motion Data permission was denied. You can change this in settings." = "运动数据的授权被拒绝。您可以在设置中调整";
+ "Posture Pal can use your AirPods to track your posture." = "Posture Pal可以通过AirPods监测您的体态。";
 
-"Request" = "Request";
-"Open Settings" = "Open Settings";
-"Continue" = "Continue";
+ "Request" = "请求";
+ "Open Settings" = "打开设置";
+ "Continue" = "继续";
 
 
 "Super Serious Mode" = "超嚴肅模式";
@@ -215,8 +215,8 @@
 "Alert Delay" = "Alert Delay";
 "How many seconds a bad posture must be detected before you get a warning message" = "How many seconds a bad posture must be detected before you get a warning message";
 
-"%ld second" = "%ld second";
-"%ld seconds" = "%ld seconds";
+"%lld second" = "%ld second";
+"%lld seconds" = "%ld seconds";
 
 "Sound Frequency" = "Sound Frequency";
 "How frequently warning sounds are played" = "How frequently warning sounds are played";
