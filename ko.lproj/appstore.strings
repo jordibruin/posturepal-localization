@@ -1,8 +1,8 @@
 /* App Store Title */
-"Posture Pal - Improve Stance" = "Posture Pal - Improve Stance";
+"Posture Pal - Improve Stance" = "Posture Pal - 자세 고쳐주는 앱";
 
 /* App Store Subtitle */
-"Straight Back, Neck & Shoulder" = "Straight Back, Neck & Shoulder";
+"Straight Back, Neck & Shoulder" = "등, 목 그리고 어깨 자세 펴주기";
 
 /* App Store Description */
 "Posture Pal helps you improve your neck and shoulder posture by using the motion sensors in your headphones. Improve your neck, shoulder and back posture without having to purchase a separate tracking device. Just use your AirPods*.
@@ -25,23 +25,23 @@ Features:
 
 = 
 
-"Posture Pal helps you improve your neck and shoulder posture by using the motion sensors in your headphones. Improve your neck, shoulder and back posture without having to purchase a separate tracking device. Just use your AirPods*.
+"Posture Pal은 헤드폰의 모션 센서를 사용하여 목과 어깨 자세를 개선하는 데 도움이 됩니다. 별도의 추적 장치를 구입하지 않고도 목, 어깨, 등 자세를 개선할 수 있습니다. 에어팟만 으로 이용이 가능합니다*.
 
-Start a Posture Session and Posture Pal will keep track if your neck tilt and will alert you in the background.
+Posture Session을 시작하면 목이 기울어지는 경우에 Posture Pal이 움직임을 감지하여 백그라운드에서 경고를 줍니다.
 
-Features:
-- Visual alerts when bad posture is detected
-- Phone vibration alerts when bad posture is detected
-- Sound alerts when bad posture is detected
-- Works in the background
-- Works while other sound is playing
-- Three different sensitivity levels
-- Custom colors and theming*
-- Custom sensitivity*
-- 12 different app icons*
+특징:
+- 잘못된 자세가 감지되면 시각적 경고
+- 나쁜 자세가 감지되면 전화 진동으로 알림
+- 나쁜 자세가 감지되면 소리로 알림
+- 백그라운드에서 작동
+- 다른 소리가 재생되는 동안 작동
+- 3가지 감도 레벨
+- 사용자 정의 색상 및 테마*
+- 맞춤형 감도*
+- 12가지 앱 아이콘*
 
-* Posture Pal supports AirPods (3rd Generation), AirPods Pro, AirPods Max and Beats Fit Pro. Other headphones that can send motion data to your iPhone can also work.
-** Posture Pal Pro required"
+* Posture Pal은 AirPods(3세대), AirPods Pro, AirPods Max 및 Beats Fit Pro를 지원합니다. iPhone으로 동작 데이터를 보낼 수 있는 다른 헤드폰도 작동할 수 있습니다.
+** Posture Pal Pro 가입이 필요합니다."
 
 /* App Store Keywords */
-"upright,neck,shoulder,back,stable,office,work,desk,stance,go,lumo,lift,active,straight,sit,airpods" = "upright,neck,shoulder,back,stable,office,work,desk,stance,go,lumo,lift,active,straight,sit,airpods";
+"upright,neck,shoulder,back,stable,office,work,desk,stance,go,lumo,lift,active,straight,sit,airpods" = "직립, 목, 어깨, 등, 안정, 사무실, 작업, 책상, 자세, 이동, 루모, 들어올리기, 활성, 똑바로, 앉기, 에어팟";
